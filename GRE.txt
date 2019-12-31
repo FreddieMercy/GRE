@@ -28,11 +28,16 @@ derelict 被遗弃的 adj.
 discreet 自抑的+不显眼的+谨慎的+小心的 adj.
 discrete 离散的，不连续的 adj.
 reticent 沉默的，谨慎的 adj.
+taciturn    沉默寡言安静保守的 adj.
+laconic 言简意赅的 adj.
+garrulous 喋喋不休的 adj.
 timid 胆小的，不景气的 adj.
+timorous 胆小的，害羞的 adj.
 tumid 肿胀的 adj.
 impoverished (==destitute， privation) 极度贫穷 adj.
 penury 极端贫穷的，穷到睡大街的 （== impoverished） adj.
 succumb 屈服 vi.
+contravene 抵触，否认 v.
 crucible 用来装熔点特别高（比如：液化铁）的液体的容器 n.
 preside （president 的动词形式）领导 v.
 excerpt 节选（文章的一小段） n./v.
@@ -47,6 +52,7 @@ feisty 活跃的（人） adj.
 pugnacious ready to fight n.
 truculent 好战的 adj.
 fractious 易怒的 adj.
+provocative （观点）尖锐的 adj.
 opprobrious （话语上）羞辱性的 adj.
 ignominious 耻辱的 adj.
 obscene 下流无耻的， 生殖器挂嘴边儿的 adj.
@@ -58,6 +64,7 @@ recondite  深奥的 adj.
 elusive 深奥的，难懂的， 聪明的 adj. 【有点像recondite,但不全是】
 inscrutability 不可思议+无法调查的程度 n.
 enigma 奇怪的东西，无法解释的东西，困难的问题 n.
+transcendent 卓越的，超出人类理解能力的 adj.
 jocund 欢快的（甚至有点做作） adj.
 condign 刑罚合适的 adj.
 clement 天气好的，老天爷愿意宽宏大量的 adj.
@@ -71,6 +78,7 @@ pluck 抽出 v.
 hoax 恶作剧 n.
 intrigue 阴谋，私通 n.
 glimpse 瞥一眼 v./n.
+descry glimpse 同义词 v.
 cozy 安慰，使感觉到温暖，抚慰 v. 让人温暖的东西（比如：被子）n. 温暖的 adj.
 ethos 文化上的某种精神或者意志 n.
 prone 有倾向且喜欢的 adj.
@@ -97,6 +105,8 @@ docile willing to be taught/led adj.
 pessimistic 悲观的 adj.
 morbid 厌世的，想死的，精神不正常的 adj.
 wastrel 凯子 n. 【真的... 真的是凯子 - - LL】
+wanton 嬉戏的，挥霍的，水性杨花的 adj. 荡妇 n. 挥霍，嬉戏 v.
+profligate  凯子，花钱在巨额奢侈品上的人 n.  非常浪费的，不拘束于世俗的 adj.
 infuriating 勃然大大大大怒的 adj.
 impeded 使...更难 adj.
 bungling 手不太好使（不太灵活）的，技能不够的 adj.
@@ -105,7 +115,6 @@ plodding （因为笨重）行动缓慢 v. （因为笨重）行动缓慢的 adj
 prim 显得礼貌一本正经甚至有点呆板的 adj. 表现得礼貌一本正经甚至有点拘束呆板 v.
 staid 庄重到无聊的 adj. 【想想天主教的弥撒...就是staid】【和prim好像...】
 blister 水泡 n. 起水泡 v.
-wanton 嬉戏的，挥霍的，水性杨花的 adj. 荡妇 n. 挥霍，嬉戏 v.
 inception 开场, 正式开始前的活动 n.
 incipient 早期的，未成形的 adj.
 promulgation official statement made to public, often on newspaper n.
@@ -173,3 +182,19 @@ wearying 非常非常疲惫的 adj.
 noteworthy 值得记录的 adj.
 renown 名望很高并且广为人知的 adj.
 palpable (对于某些不可控的事或物)可控制的 adj.
+frolicsome  幸福的时光 n.
+desultory 漫无目的的 adj.
+pensive 不高兴郁郁寡欢而且严肃的 adj.
+wistful pensive 同义词 adj.
+lackluster 没有活力或者资质平庸的 adj.
+misgiving (about sb/.sth.) 对某人某事有错误期待或者认为某人不诚实 n.
+avuncular 像叔叔一样温柔友善又有耐心的 adj.
+vested 有兴趣的（interested) adj.
+abjure 放弃之前的宗旨和信条，叛教 v.
+quip 妙语，嘲弄 n./v. 【短短一句信息量爆炸的话，一般有点幽默】
+rancorous 讨厌，不喜欢，嫌弃，与之相关的事都很勉强 adj.
+progeny （某人的）孩子 n.
+prodigy 不同寻常的天赋，超高优越的质量，某时发生的预兆 n.
+tortuous 蜿蜒崎岖的 adj.
+torrid 情绪化的 adj.
+slake （情绪上的）降温，满足，用水降温 v. 【射后的Aaron】
