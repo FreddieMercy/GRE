@@ -88,6 +88,9 @@ fervid 感情强烈的，特别热的 adj.
 dome 圆顶建筑的那个圆顶 n.
 entice 劝+利诱 v.
 pander 勾引，引诱 v./n.
+toady 靠取悦某人谋取利益的人 n. 靠哭闹或者撒娇来企图获得想要的 v.
+sycophant 靠取悦某人谋取利益的人 n.
+flatter 勾引，挑逗，拍马屁 v.
 harrow 耙 n. 耙地，使难过 v. p.s: 猪八戒专用 LOL
 vigilance 连续高强度注意力集中 n. p.s: 说，你和scrutinize什么关系？是不是他的名词形式？？
 intrepidity 无畏 n.
@@ -95,7 +98,7 @@ sagacity 理解能力 n.
 scarcity 很少且不足的数量 n.
 insolvent 无法负担金融责任的（就是穷） adj. 资不抵债的人 n.
 paucity 拥有的数量不够不足 n. 【简单来讲就是穷】
-spate 洪水，如洪水一样一大波... n.
+nugatory 无价值的，一文不值的 adj.
 renege 毁约，说了要不再做但又重拾陋习 n./v.
 grandiloquent super fancy adj.
 egregious 无礼且好战的 adj.
@@ -105,8 +108,9 @@ docile willing to be taught/led adj.
 pessimistic 悲观的 adj.
 morbid 厌世的，想死的，精神不正常的 adj.
 wastrel 凯子 n. 【真的... 真的是凯子 - - LL】
-wanton 嬉戏的，挥霍的，水性杨花的 adj. 荡妇 n. 挥霍，嬉戏 v.
 profligate  凯子，花钱在巨额奢侈品上的人 n.  非常浪费的，不拘束于世俗的 adj.
+decadent 凯子 n. 生活挥霍无度奢侈又自大不负责任的 adj.
+wanton 嬉戏的，挥霍的，水性杨花的 adj. 荡妇 n. 挥霍，嬉戏 v.
 infuriating 勃然大大大大怒的 adj.
 impeded 使...更难 adj.
 bungling 手不太好使（不太灵活）的，技能不够的 adj.
@@ -118,6 +122,7 @@ blister 水泡 n. 起水泡 v.
 inception 开场, 正式开始前的活动 n.
 incipient 早期的，未成形的 adj.
 promulgation official statement made to public, often on newspaper n.
+ratification 正式确认 n.
 schism 分裂，一分为二 n.
 medieval 中世纪的 adj.
 staple 主食，（可能是因为喜欢）生活必需品，书钉 n./adj./v.
@@ -158,6 +163,7 @@ esurient 极度饥饿的 adj.
 foe （武装）敌人，敌对的武装势力 n.
 forensic 法医的，适用于法庭的 adj.
 inundate quickly filled up (with liquid) v.
+spate 洪水，如洪水一样一大波... n.
 imperturbable 镇静自若的，冷静的 adj. [比如说，刚和Aaaron分手，第二天照常上班像没事人儿一样，虽然心里还是不舒服]
 sully 诽谤，抹黑，污蔑 v.
 disingenuous  不是太实诚的，遮遮掩掩的 adj. 【想想 Aaron ... 每次要他官宣他找借口的样子】
@@ -171,6 +177,7 @@ implacable 无法安抚的，很难和解的 adj.
 placable easily calmed, gentle and forgiving adj.
 myopic 短视的 adj. 【和sagacity应该是反义词】
 hackneyed 过于熟悉的，repeat too often adj.
+trite 滥用，used too often v.
 vagary 意料之外的改变 n.
 laudable 十分非常特别值得赞扬的 adj.
 hapless helpless adj.
@@ -194,7 +201,31 @@ abjure 放弃之前的宗旨和信条，叛教 v.
 quip 妙语，嘲弄 n./v. 【短短一句信息量爆炸的话，一般有点幽默】
 rancorous 讨厌，不喜欢，嫌弃，与之相关的事都很勉强 adj.
 progeny （某人的）孩子 n.
-prodigy 不同寻常的天赋，超高优越的质量，某时发生的预兆 n.
+prodigy 不同寻常的天赋，超高优越的质量，某事发生的预兆 n.
+herald  某事发生的预兆，某人宣布的重大事项 n. 有活力又乐观的 adj.
 tortuous 蜿蜒崎岖的 adj.
 torrid 情绪化的 adj.
 slake （情绪上的）降温，满足，用水降温 v. 【射后的Aaron】
+whet 磨刀，打磨锋利 v.
+tyro 新手，菜鸟 n.
+jounce 突然的震动 n. move up and down suddenly v. 
+billow 海浪 n. （风）吹，（海）流 v.
+atrophy （肌肉或者身体的某种组织）萎缩 n. / v.
+slipshod  非常马虎的 adj.
+protean  变形的,形状多变的 adj. [毕加索的画就很 protean ]
+espousal 鼓励， 支持 n.
+conceive (脑中)孕育想法，（心中）孕育论断，（腹中）孕育小宝宝 n.
+uncanny 超自然神秘奇特的 adj.
+solitude  孤身一人，与世隔绝，无人烟的地方 n.
+salient 引人注目的 adj.
+eschew  回避 v.
+ruminate 深思熟虑,反复咀嚼 v.
+poignant 尖锐的，深刻的 adj.
+trenchant 思想活跃且很有深度的
+intersperse 分布，在间歇中穿插点缀 v.
+fitful 断断续续无休止或不正常的 adj.
+aberrant 特立独行但又符合规矩的 adj. 行为和别人不一样的人 n.
+inviolable （誓约）不可违反且神圣的 adj.
+bilirubin 胆红素 n. 【如果血液里有太多的话身体会发黄】
+sallow 病态的 adj. 使...看起来病态 v. 一种树叶 n.
+rubicund （健康的）红润的 adj. 【面色红润有光泽就是 rubicund】
