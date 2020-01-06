@@ -66,6 +66,7 @@ steed 坐骑 n.
 pugnacious ready to fight n.
 truculent 好战的 adj.
 fractious 易怒的 adj.
+raving 胡说八道 v./adj./adv.
 provocative （观点）尖锐的 adj.
 opprobrious （话语上）羞辱性的 adj.
 ignominious 耻辱的 adj.
@@ -145,6 +146,9 @@ foe （武装）敌人，敌对的武装势力 n.
 confrontation 激烈生气的争执，对立的团体，硬核的挑战 n.
 impeded 使...更难 adj.
 bungling 手不太好使（不太灵活）的，技能不够的 adj.
+monstrous （因为奇形怪状导致）吓人的，体型异常巨大的，恐怖残忍变态的 adj.
+stout 胖胖壮壮且可爱又可靠的， 勇敢且可靠的，胖的 adj. 虎背熊腰的大汉 n.
+corpulent (正式说法)非常胖的 adj.
 ponderous 因体型太大体重太重而导致的笨重的 adj.
 plodding （因为笨重）行动缓慢 v. （因为笨重）行动缓慢的 adj.
 stumble 不平衡地走，踩空（比如：踩空台阶），犯错，偶遇 v. 难看的样子 n.
@@ -170,6 +174,7 @@ riddle 很难的问题，一条满是洞的东西 n. 解密，扎孔，散布 v.
 laceration 撕裂造成的伤口（可以是精神上也可以是物理上） n.
 tore 撕开 v.
 asunder 撕裂，分开 v. 分成小块 adv.
+moulder break down v.
 parcel 小包裹，一个东西的一小块 n. 把一个东西切成小块 v.
 cicatrix 疤痕 n.
 snippet 任何的一条又细又小的东西 n.
@@ -184,7 +189,7 @@ saccharine 特别甜的，甜到齁儿的 adj.
 pungent （气味）刺鼻的，（味道）太重的 adj.
 prosiac 平庸的 adj.
 vapid 平庸的，无趣的 adj.
-tenuous thin adj.
+tenuous thin adj. 【和 narrow 有点像是同义词】
 confer 开个会（并出席）来讨论某事 v.
 mourn 因为深爱的人死亡而感到悲痛欲绝 v.
 prowess 某种特殊且卓越而且出众的能力 n.
@@ -204,9 +209,11 @@ forensic 法医的，适用于法庭的 adj.
 inundate quickly filled up (with liquid) v.
 spate 洪水，如洪水一样一大波... n.
 ablution （一种宗教仪式）圣职人员洗手 n.
-imperturbable 镇静自若的，冷静的 adj. [比如说，刚和Aaaron分手，第二天照常上班像没事人儿一样，虽然心里还是不舒服]
+imperturbable 镇静自若的，冷静的 adj. [比如说，刚和Aaron分手，第二天照常上班像没事人儿一样，虽然心里还是不舒服]
+struck （因为某事）震惊的 adj.
 sully 诽谤，抹黑，污蔑 v.
 taint 污染 n./v.
+squalid 肮脏的，污秽的，卑劣的 adj.
 disingenuous  不是太实诚的，遮遮掩掩的 adj. 【想想 Aaron ... 每次要他官宣他找借口的样子】
 ingenuous  天真坦白实诚的 adj.
 conceive (脑中)孕育想法，（心中）孕育论断，（腹中）孕育小宝宝 n.
@@ -276,12 +283,14 @@ salient 引人注目的 adj.
 eschew  回避 v.
 ruminate 深思熟虑,反复咀嚼 v.
 cogitate 深思熟虑 v.
+contemplation 长时间思考 n.
 devour 狼吞虎咽，彻底摧毁,十分享受 v.
 poignant 尖锐的，深刻的 adj.
 trenchant 思想活跃且很有深度的
 intersperse 分布，在间歇中穿插点缀 v.
 fitful 断断续续无休止或不正常的 adj.
 aberrant 特立独行但又符合规矩的 adj. 行为和别人不一样的人 n.
+peculiar 独特的，不同于一般期待的 adj. 特权，财产 n.
 inviolable （誓约）不可违反且神圣的 adj.
 bilirubin 胆红素 n. 【如果血液里有太多的话身体会发黄】
 rubicund （健康的）红润的 adj. 【面色红润有光泽就是 rubicund】
@@ -307,6 +316,7 @@ nominal 有名字的，记名的 adj.
 denominate 赐名，取名，命名 v.
 tiller 船舵，桨，船夫 n. 划桨 v.
 hyperbole 夸张，极端热情 n.
+hysterical 狂热的，歇斯底里的 adj.
 salacious 美味好吃且多汁的 adj.
 acne 痤疮，粉刺 n. 【几乎所有会生小红点的病都可以叫 acne】
 arcane （魔法）深奥难懂的，奥术的 adj.
@@ -331,7 +341,7 @@ sequel 续集，下一部，延长的部分 n.
 stupefied 震惊的，大脑嗡的一下的 adj.
 sinecure 舒适的生活 n.
 feat achievement n.
-anon a little while, another time avd.
+anon a little while, another time adv.
 tingling 麻痹感 n. 挠痒痒的 adj.
 pervade [持续/贯穿]全程 v.
 din 噪音，制造噪音的行为 n. 制造噪音 v.
@@ -340,6 +350,7 @@ cudgel 用木棍打 v.
 entreat ask sth that is very important v.
 content 满足的 adj. 使一定程度上的满足 v. 内容，什么都有的聚合物 n. 
 stalk 茎 n. 跟踪 v.
+skulk 懦弱，逃避，跟踪，逃避责任 v.
 soot 煤灰，灰烬 n.
 landen 倾倒，用工具勾下来 v. 心里有压力的，充满且数量很足的（一般是向下垂的）adj. 【比如：laden apple tree，结了特别特别多大大大苹果的苹果树】
 onward on forward direction adv.
@@ -351,6 +362,7 @@ pursuance 追求，追寻 n.
 magistrate 大法官，执法者 n.
 injunction 禁令 n.
 palpitate （心脏一类的）快速泵动，不停发抖（因为冷或者害怕），导致快速泵动 v.
+shivering （因为冷）颤抖的 adj. （因为冷）颤抖 n.
 adjoin 毗邻的，衔接的 adj.
 obeisance 敬礼 n.
 mingle 搅拌，混合 v.
@@ -358,7 +370,6 @@ manifold 影印纸 n. 复印 v. 非常多 adv.
 darn 补丁，不值钱的东西 n. 打补丁 v.
 proffer 提供 v./n. 【跟 offer 有什么区别？】
 snuffbox 鼻烟壶 n.
-stout 胖胖壮壮且可爱又可靠的， 勇敢且可靠的，胖的 adj. 虎背熊腰的大汉 n.
 inure 使...习惯，使用，起作用 v.
 tush 臀部 n.
 pledge 非常慎重的保证 n./v. 将要加入但还未加入的成员 n. 定期的慈善捐款 n.
@@ -379,8 +390,39 @@ anteroom 会客室，进入正门的等待室, waiting room n. 【vestibule?】
 slattern 站街女，流浪的女人，脏女孩 n.
 viand delicious adj.
 frightful fearful adj.
-monstrous （因为奇形怪状导致）吓人的，体型异常巨大的，恐怖残忍变态的 adj.
 breech （给枪）上膛 n.
 queer weird,奇怪的，对同性有性幻想的 adj. 阻止某种感情，置（人或物）于危险的境地 v. （脏话）同性恋 n.
 promptitude (人的品质)准时 n.
 promptness (客观上的)准时 n. [其实和 promptitude 也是同义词]
+soothe 慰安，让...更好受，（精神上的）抚慰 v.
+stale  不新鲜的 adj. 不新鲜 v.
+epithet 外号，诨名 n.
+propitious 吉利的 adj.
+matrimonial 婚姻的，与婚姻相关的 adj.
+sneer 苦笑 n./v.
+heaver 挑夫，举起东西用的杠杆，举起东西的人或者工具 n.
+flounce （大摇大摆很欠揍的）走路 n./v. 用来装饰用的彩条 n.
+tenement （勉强可以称为房子的）房子 n.
+kennel 狗屋，阴沟 n. 关进狗屋 v.
+filthy 特别肮脏的 adj.
+putrefy 化脓，堕落，腐烂 v.
+knuckle 手指的关节 n. 开始工作，用指节敲打 v.
+chuckle 微微一笑（百媚生LOL） v./n.
+stool 排泄物，厕所，凳子（真的是凳子，没有扶手没有靠背，不是椅子！） n. 
+ragged 衣衫褴褛，到处是洞，破破烂烂，参差不齐，锯齿状的，粗糙的 adj.
+grizzly 北美棕熊 n. 中年的（头发开始有白色的，想想柯叔）adj.
+protrude 伸出来，stick out v.
+clench 攥紧(手) v./n.
+menace 威胁，危险 n. 威胁 v.
+cravat 一种很好看的英伦的围在脖子上的东西 n. 【我也要买一条，记下！】
+nettle 荨麻 n. 刺激，惹人讨厌 v.
+vestry 教堂更衣室 n. 【做死人洗礼之前换衣服的那个房间】
+bier 棺材支架 n.
+brink 悬崖的边缘，临界点 n.
+lapse 堕落（到更糟更低端），重试恶习 v. 马虎造成的错误 n. 结束（很长一段时间）n./v.
+surplice 唱诗班穿的那种傻逼衣服 n.
+swoon 缺血导致的晕厥 v./n.
+bewail 强烈地后悔 v. [想想跟Aaron提分手的第二天]
+fatal 命中注定的(一般是悲惨的) adj. 【命中注定爱上Aaron，fatal太贴切了】
+garb 制服 n. 提供衣服 v.
+
