@@ -66,6 +66,7 @@ steed 坐骑 n.
 pugnacious ready to fight n.
 truculent 好战的 adj.
 fractious 易怒的 adj.
+facetious 幽默的，开玩笑的 adj.
 raving 胡说八道 v./adj./adv.
 provocative （观点）尖锐的 adj.
 opprobrious （话语上）羞辱性的 adj.
@@ -109,15 +110,12 @@ prone 有倾向且喜欢的 adj.
 ardent 有热情的，（对某事）十分乐观的 adj.
 tepid （中性词）温的，不热的 adj.
 fervid 感情强烈的，特别热的 adj.
-entice 劝+利诱 v.
-pander 勾引，引诱 v./n.
-toady 靠取悦某人谋取利益的人 n. 靠哭闹或者撒娇来企图获得想要的 v.
-sycophant 靠取悦某人谋取利益的人 n.
 flatter 勾引，挑逗，拍马屁 v.
 flutter 快速振动、扇动 v.
 harrow 耙 n. 耙地，使难过 v. p.s: 猪八戒专用 LOL
 vigilance 连续高强度注意力集中 n. p.s: 说，你和scrutinize什么关系？是不是他的名词形式？？
 intrepidity 无畏 n.
+inpudent 胆子大脸皮也厚的 adj.
 temerity 胆大无畏 n.
 sagacity 理解能力 n.
 scarcity 很少且不足的数量 n.
@@ -248,6 +246,20 @@ pensive 不高兴郁郁寡欢而且严肃的 adj.
 wistful pensive 同义词 adj.
 lackluster 没有活力或者资质平庸的 adj.
 languid 无精打采没有活力的 adj.
+dejected 沮丧痛苦难受失魂落魄的 adj.
+tormentor 痛苦的人，舞台上的帷幕 n.
+bewail 强烈地后悔 v. [想想跟Aaron提分手的第二天]
+rueful 可怜的，可悲的，会让人后悔的 adj.
+agony 痛苦，垂死挣扎 n.
+writhe (精神上，或者想法上的) 扭曲 v.
+commiseration 对别人的痛苦忧伤感同身受并表示同情与善意 n.
+entice 劝+利诱 v.
+pander 勾引，引诱 v./n.
+tantalising 诱人的，挑逗的 adj. 勾引 v.
+sycophant 靠取悦某人谋取利益的人 n.
+toady 靠取悦某人谋取利益的人 n. 靠哭闹或者撒娇来企图获得想要的 v.
+snivel （因为太想要某样东西）大哭大闹 v./n.
+blubber 又哭又闹 v./n. 肿大的 adj. 鲸鱼和其他水中哺乳动物用来漂浮的脂肪层 n. 
 misgiving (about sb/.sth.) 对某人某事有错误期待或者认为某人不诚实 n.
 avuncular 像叔叔一样温柔友善又有耐心的 adj.
 vested 有兴趣的（interested) adj.
@@ -273,6 +285,7 @@ atrophy （肌肉或者身体的某种组织）萎缩 n. / v.
 slipshod  非常马虎的 adj.
 protean  变形的,形状多变的 adj. [毕加索的画就很 protean ]
 espousal 鼓励， 支持 n.
+embolden 鼓励，加油打气 v.
 deem view as ... , judge sth v.
 dome 圆顶建筑的那个圆顶 n.
 uncanny 超自然神秘奇特的 adj.
@@ -347,6 +360,7 @@ pervade [持续/贯穿]全程 v.
 din 噪音，制造噪音的行为 n. 制造噪音 v.
 flog 用拐杖或者木棍击打 v.
 cudgel 用木棍打 v.
+pommel 打击 v. 套马的缰绳 n.
 entreat ask sth that is very important v.
 content 满足的 adj. 使一定程度上的满足 v. 内容，什么都有的聚合物 n. 
 stalk 茎 n. 跟踪 v.
@@ -400,6 +414,7 @@ epithet 外号，诨名 n.
 propitious 吉利的 adj.
 matrimonial 婚姻的，与婚姻相关的 adj.
 sneer 苦笑 n./v.
+jeer 嘲笑 n./v.
 heaver 挑夫，举起东西用的杠杆，举起东西的人或者工具 n.
 flounce （大摇大摆很欠揍的）走路 n./v. 用来装饰用的彩条 n.
 tenement （勉强可以称为房子的）房子 n.
@@ -422,7 +437,23 @@ brink 悬崖的边缘，临界点 n.
 lapse 堕落（到更糟更低端），重试恶习 v. 马虎造成的错误 n. 结束（很长一段时间）n./v.
 surplice 唱诗班穿的那种傻逼衣服 n.
 swoon 缺血导致的晕厥 v./n.
-bewail 强烈地后悔 v. [想想跟Aaron提分手的第二天]
 fatal 命中注定的(一般是悲惨的) adj. 【命中注定爱上Aaron，fatal太贴切了】
 garb 制服 n. 提供衣服 v.
-
+equanimity 艰难环境下的坚强意志 n.
+irrepressible 无法抑制的 adj.
+gaiety 幸福时光，merriment n.
+interment 安葬 n.
+brewery 啤酒厂 n.
+nostril 鼻孔 n.
+chatter （社交中）聊一些没有用的，聊家长里短 v. 噪音 n.
+glare 反光 v./n. 怒目凝视瞪人 v./n. 光泽 n.
+gleam 一束光 n. 因为反光所以看起来闪闪的样子 n. 闪光 v.
+cradle 摇篮 n. 抚养 v. 放在摇篮里 v.
+milling 硬币周围那层锯齿 n.
+swell 扩大，变大，变多，变沉（一般都是不正常地） v. 非常好 adj. 自恋狂 n.
+pell-mell 疯狂地，脏乱差地鲁莽地，野蛮地 adv. / adj.
+metallic 金属的，金属制的 adj.
+aforesaid 曾经说过的 adj.
+howling 咆哮 n./v. 哭哭啼啼 v. 咆哮的 adj.
+pat 轻轻连续拍打 v./n. 【想象一下妈妈哄孩子睡觉时轻轻地拍打】
+parley 敌我之间的会谈 n./v.
