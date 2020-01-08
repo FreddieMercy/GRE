@@ -63,6 +63,8 @@ ruffian 暴走族，黑社会，流氓，地痞 n.
 sly 狡猾的，善于欺骗的 adj.
 bluff 吓唬，断崖 v./n.
 steed 坐骑 n.
+ire 强烈的愤怒（基本是因为或者起源于一种原罪）n.
+ira 强烈的愤怒（基本是因为或者起源于一种原罪）n. [ire的同义词，是不是古人拼错了？]
 pugnacious ready to fight n.
 truculent 好战的 adj.
 fractious 易怒的 adj.
@@ -157,6 +159,7 @@ stagger 困难地走，步履蹒跚 v.
 prim 显得礼貌一本正经甚至有点呆板的 adj. 表现得礼貌一本正经甚至有点拘束呆板 v.
 staid 庄重到无聊的 adj. 【想想天主教的弥撒...就是staid】【和prim好像...】
 blister 水泡 n. 起水泡 v.
+prelude 开场 n./v.
 inception 开场, 正式开始前的活动 n.
 incipient 早期的，未成形的 adj.
 inchoate incipient 同义词 adj.
@@ -171,8 +174,10 @@ paean 节日里唱的赞美的歌 n. 【比如：圣诞歌】
 riddle 很难的问题，一条满是洞的东西 n. 解密，扎孔，散布 v.
 laceration 撕裂造成的伤口（可以是精神上也可以是物理上） n.
 tore 撕开 v.
+torn 撕碎的 adj.
 asunder 撕裂，分开 v. 分成小块 adv.
 moulder break down v.
+scowl 愤怒的脸部表情，脸上的愤怒 v./n.
 parcel 小包裹，一个东西的一小块 n. 把一个东西切成小块 v.
 cicatrix 疤痕 n.
 snippet 任何的一条又细又小的东西 n.
@@ -219,6 +224,7 @@ conceit 自夸，炫耀，虚假的骄傲 n.
 pomposity 极度夸张的自负 n.
 vaunt 炫耀，自夸 v./n.
 ostentatious 炫耀的 adj.
+exaggeration 夸张，言过其实，自吹自擂 n.
 tethered 拴着的 adj. 【比如：马是拴着的】
 pliant 弹性的，可弯曲的 adj.
 transigent 妥协的人 n. 能妥协的 adj.
@@ -457,3 +463,8 @@ aforesaid 曾经说过的 adj.
 howling 咆哮 n./v. 哭哭啼啼 v. 咆哮的 adj.
 pat 轻轻连续拍打 v./n. 【想象一下妈妈哄孩子睡觉时轻轻地拍打】
 parley 敌我之间的会谈 n./v.
+profuse 特别特别特别多的（甚至有些过分了） adj.
+discourse （正式）讲述，论述 v./n.
+allusion 暗示 n.
+recommence 重新开张，重新开始 v.
+juncture 赛点，衔接，关键时刻，关键事件 n.
