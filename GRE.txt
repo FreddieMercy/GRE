@@ -117,6 +117,7 @@ flutter 快速振动、扇动 v.
 harrow 耙 n. 耙地，使难过 v. p.s: 猪八戒专用 LOL
 vigilance 连续高强度注意力集中 n. p.s: 说，你和scrutinize什么关系？是不是他的名词形式？？
 intrepidity 无畏 n.
+boisterous 活跃的但又闹腾跟个傻子似的， full of animal spirit adj. [用来形容派大星最合适了]
 inpudent 胆子大脸皮也厚的 adj.
 temerity 胆大无畏 n.
 sagacity 理解能力 n.
@@ -152,9 +153,12 @@ corpulent (正式说法)非常胖的 adj.
 ponderous 因体型太大体重太重而导致的笨重的 adj.
 plodding （因为笨重）行动缓慢 v. （因为笨重）行动缓慢的 adj.
 stumble 不平衡地走，踩空（比如：踩空台阶），犯错，偶遇 v. 难看的样子 n.
+stump （感觉身体沉重地）行走困难的，四处游行去发表政治演说，砍树 v. 树桩 n. 【艰难游荡去砍树完了在树桩上发表政治演讲，哈哈】
 limp 不平衡的 adj. 困难的走（因为身体不平衡）v. （因伤导致）不平衡的样子 n.
+trudge 艰难地行走 v./n.
 glimpse 瞥一眼 v./n.
 descry glimpse 同义词 v.
+peep （偷偷地）瞟一眼 n./v.
 stagger 困难地走，步履蹒跚 v. 
 prim 显得礼貌一本正经甚至有点呆板的 adj. 表现得礼貌一本正经甚至有点拘束呆板 v.
 staid 庄重到无聊的 adj. 【想想天主教的弥撒...就是staid】【和prim好像...】
@@ -177,7 +181,6 @@ tore 撕开 v.
 torn 撕碎的 adj.
 asunder 撕裂，分开 v. 分成小块 adv.
 moulder break down v.
-scowl 愤怒的脸部表情，脸上的愤怒 v./n.
 parcel 小包裹，一个东西的一小块 n. 把一个东西切成小块 v.
 cicatrix 疤痕 n.
 snippet 任何的一条又细又小的东西 n.
@@ -196,6 +199,8 @@ tenuous thin adj. 【和 narrow 有点像是同义词】
 confer 开个会（并出席）来讨论某事 v.
 mourn 因为深爱的人死亡而感到悲痛欲绝 v.
 prowess 某种特殊且卓越而且出众的能力 n.
+prosper thrive, succeed, do well v.
+knack 窍门 n.
 phonograph 留声机 n.
 stylus 一种尖头的笔或者铭刻的工具 n.
 diaphragm 隔膜，快门，光圈 n.
@@ -250,6 +255,7 @@ frolicsome  幸福的,嬉戏的 adj.
 desultory 漫无目的的 adj.
 pensive 不高兴郁郁寡欢而且严肃的 adj.
 wistful pensive 同义词 adj.
+crevice (物理上或者心灵上的)裂痕 n.
 lackluster 没有活力或者资质平庸的 adj.
 languid 无精打采没有活力的 adj.
 dejected 沮丧痛苦难受失魂落魄的 adj.
@@ -273,6 +279,7 @@ abjure 放弃之前的宗旨和信条，叛教 v.
 quip 妙语，嘲弄 n./v. 【短短一句信息量爆炸的话，一般有点幽默】
 jocosity 幽默的特质 n.
 rancorous 讨厌，不喜欢，嫌弃，与之相关的事都很勉强 adj.
+snub 无视 v./n. 转瞬即逝难以察觉的 adj.
 progeny （某人的）孩子 n.
 prodigy 不同寻常的天赋，超高优越的质量，某事发生的预兆 n.
 betoken 预示，表示 v.
@@ -294,6 +301,7 @@ espousal 鼓励， 支持 n.
 embolden 鼓励，加油打气 v.
 deem view as ... , judge sth v.
 dome 圆顶建筑的那个圆顶 n.
+brow 额头，山顶 n.
 uncanny 超自然神秘奇特的 adj.
 solitude  孤身一人，与世隔绝，无人烟的地方 n.
 introvert （把什么东西）向内卷起来,远离人群特立独行 v. 想远离人群特立独行的心理状态 n.
@@ -305,7 +313,8 @@ cogitate 深思熟虑 v.
 contemplation 长时间思考 n.
 devour 狼吞虎咽，彻底摧毁,十分享受 v.
 poignant 尖锐的，深刻的 adj.
-trenchant 思想活跃且很有深度的
+trenchant 思想活跃且很有深度的 adj.
+nimble （思维或者行动）敏捷的 adj.
 intersperse 分布，在间歇中穿插点缀 v.
 fitful 断断续续无休止或不正常的 adj.
 aberrant 特立独行但又符合规矩的 adj. 行为和别人不一样的人 n.
@@ -366,6 +375,7 @@ pervade [持续/贯穿]全程 v.
 din 噪音，制造噪音的行为 n. 制造噪音 v.
 flog 用拐杖或者木棍击打 v.
 cudgel 用木棍打 v.
+drub 击打（一般是用棍子） v.
 pommel 打击 v. 套马的缰绳 n.
 entreat ask sth that is very important v.
 content 满足的 adj. 使一定程度上的满足 v. 内容，什么都有的聚合物 n. 
@@ -377,6 +387,7 @@ onward on forward direction adv.
 chimney 烟囱 n.
 expenditure 消费（无论是钱还是消费的行为），花钱，花的钱 n. 
 expedient 捷径的（无论是事业上，或者路线） adj. 捷径（各种意义上） n.
+expedition 旅行团，冒险队 n.
 bruise 擦伤 n./v.
 pursuance 追求，追寻 n.
 magistrate 大法官，执法者 n.
@@ -411,6 +422,7 @@ slattern 站街女，流浪的女人，脏女孩 n.
 viand delicious adj.
 frightful fearful adj.
 breech （给枪）上膛 n.
+brooch 胸针 n.
 queer weird,奇怪的，对同性有性幻想的 adj. 阻止某种感情，置（人或物）于危险的境地 v. （脏话）同性恋 n.
 promptitude (人的品质)准时 n.
 promptness (客观上的)准时 n. [其实和 promptitude 也是同义词]
@@ -419,8 +431,10 @@ stale  不新鲜的 adj. 不新鲜 v.
 epithet 外号，诨名 n.
 propitious 吉利的 adj.
 matrimonial 婚姻的，与婚姻相关的 adj.
+matrimony 婚姻 n. 【marriage 同义词】
 sneer 苦笑 n./v.
 jeer 嘲笑 n./v.
+scowl 愤怒的脸部表情，脸上的愤怒 v./n.
 heaver 挑夫，举起东西用的杠杆，举起东西的人或者工具 n.
 flounce （大摇大摆很欠揍的）走路 n./v. 用来装饰用的彩条 n.
 tenement （勉强可以称为房子的）房子 n.
@@ -464,7 +478,33 @@ howling 咆哮 n./v. 哭哭啼啼 v. 咆哮的 adj.
 pat 轻轻连续拍打 v./n. 【想象一下妈妈哄孩子睡觉时轻轻地拍打】
 parley 敌我之间的会谈 n./v.
 profuse 特别特别特别多的（甚至有些过分了） adj.
+vast 特别特别特别多的 adj. (enormous同义词)
 discourse （正式）讲述，论述 v./n.
 allusion 暗示 n.
 recommence 重新开张，重新开始 v.
 juncture 赛点，衔接，关键时刻，关键事件 n.
+recital 表演，诗朗诵 (总之重复记忆中的东西的所有行为) n.
+sepulchral 阴森森的，坟墓的 adj.
+avail 利用，使用 v. 服务 n.
+toil （勤奋）工作 n./v.
+bethink 使沉思 v.
+stile 阶梯 n.
+lad 男孩或者男人 n.
+breed 繁衍 v. [还有名词词性，但搞不懂是啥意思]
+slacken 使变慢，使松弛（比如拧开瓶盖）使平淡 v.
+meadow 草场，牧场 n.
+hayrick 草垛 n.
+rattle 制造连续尖锐的噪音 v. 连续的尖锐的噪音 n. [比如焦急等待时跺脚的噪音]
+shipwreck 拆船 v. 船的残骸 n.
+magnificent 高尚的，华美的 adj.
+splendid 精美的，华丽的，高档的 adj.
+wayfarer 背包客，步行到处旅游的人 n.
+bowlegged O型腿的 adj.
+parson 主教 n.
+pilfer 小偷小摸 v.
+corduroy 灯芯儿 n.
+chandler （贩卖或者制造）蜡烛香皂或者油的人 n.
+blucher 一种挺高的有舌头的靴子 n.
+magpie 鹊，清道夫，话多且内容没营养的人 n.
+despicable 卑劣的，可鄙的 adj.
+crumb 一点点食物（一般是主食：面包，馒头一类的），看起来卑鄙的人 n.
