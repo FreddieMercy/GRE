@@ -156,6 +156,7 @@ stumble 不平衡地走，踩空（比如：踩空台阶），犯错，偶遇 v.
 stump （感觉身体沉重地）行走困难的，四处游行去发表政治演说，砍树 v. 树桩 n. 【艰难游荡去砍树完了在树桩上发表政治演讲，哈哈】
 limp 不平衡的 adj. 困难的走（因为身体不平衡）v. （因伤导致）不平衡的样子 n.
 trudge 艰难地行走 v./n.
+tread 行走，结伴行走 v.
 glimpse 瞥一眼 v./n.
 descry glimpse 同义词 v.
 peep （偷偷地）瞟一眼 n./v.
@@ -264,8 +265,10 @@ bewail 强烈地后悔 v. [想想跟Aaron提分手的第二天]
 rueful 可怜的，可悲的，会让人后悔的 adj.
 agony 痛苦，垂死挣扎 n.
 writhe (精神上，或者想法上的) 扭曲 v.
+distort 扭曲 v.
 commiseration 对别人的痛苦忧伤感同身受并表示同情与善意 n.
 entice 劝+利诱 v.
+tempt 引诱，勾引，试炼 v.
 pander 勾引，引诱 v./n.
 tantalising 诱人的，挑逗的 adj. 勾引 v.
 sycophant 靠取悦某人谋取利益的人 n.
@@ -286,6 +289,7 @@ betoken 预示，表示 v.
 herald  某事发生的预兆，某人宣布的重大事项 n. 有活力又乐观的 adj.
 hearse 灵车 n.
 speculation 视野,前瞻 n.
+spectacle 目击（某些令人震惊或者难堪的事） n.
 tortuous 蜿蜒崎岖的 adj.
 torrid 情绪化的 adj.
 slake （情绪上的）降温，满足，用水降温 v. 【射后的Aaron】
@@ -295,6 +299,7 @@ jounce 突然的震动 n. move up and down suddenly v.
 billow 海浪 n. （风）吹，（海）流 v.
 sallow 病态的 adj. 使...看起来病态 v. 一种树叶 n.
 atrophy （肌肉或者身体的某种组织）萎缩 n. / v.
+shrivel 枯萎 v.
 slipshod  非常马虎的 adj.
 protean  变形的,形状多变的 adj. [毕加索的画就很 protean ]
 espousal 鼓励， 支持 n.
@@ -394,6 +399,7 @@ magistrate 大法官，执法者 n.
 injunction 禁令 n.
 palpitate （心脏一类的）快速泵动，不停发抖（因为冷或者害怕），导致快速泵动 v.
 shivering （因为冷）颤抖的 adj. （因为冷）颤抖 n.
+quiver 颤抖 v./n.
 adjoin 毗邻的，衔接的 adj.
 obeisance 敬礼 n.
 mingle 搅拌，混合 v.
@@ -443,6 +449,7 @@ filthy 特别肮脏的 adj.
 putrefy 化脓，堕落，腐烂 v.
 knuckle 手指的关节 n. 开始工作，用指节敲打 v.
 chuckle 微微一笑（百媚生LOL） v./n.
+grin 微笑 v./n.
 stool 排泄物，厕所，凳子（真的是凳子，没有扶手没有靠背，不是椅子！） n. 
 ragged 衣衫褴褛，到处是洞，破破烂烂，参差不齐，锯齿状的，粗糙的 adj.
 grizzly 北美棕熊 n. 中年的（头发开始有白色的，想想柯叔）adj.
@@ -508,3 +515,31 @@ blucher 一种挺高的有舌头的靴子 n.
 magpie 鹊，清道夫，话多且内容没营养的人 n.
 despicable 卑劣的，可鄙的 adj.
 crumb 一点点食物（一般是主食：面包，馒头一类的），看起来卑鄙的人 n.
+fret 害怕（被吃掉），用#字（格子）装饰，摩擦，拧紧，掐 v. #字装饰，擦伤 n.
+flighty 想法多变的，爱改主意的 adj. （飞到未来里的 Fre）
+irresolute 优柔寡断拿不定主意的 adj.
+benefactor 赞助人 n.
+patron 赞助人 n.
+incorrigible 无可救药的，积习难改的，打也不改的 adj.
+studded 用斑点装饰的 adj.
+crawl 狗刨，蹑手蹑脚的走，害怕 v.
+wrangling 激烈争吵 n.
+wallow 开心地打滚 v.
+errand 出差，商务旅行 n.
+plummy 心仪的，很多人都喜欢会特别想要的 adj.
+balustrade 栅栏，保全 n.
+pewter 银器（其实是锡做的）n.
+mantel 壁炉上那个用来放装饰的架子 n.
+matted 卷曲的，暗淡的 adj. 【女性广告都这词儿 。。】
+flannel 法兰绒（就是一种用棉花或者羊毛织的软软的布料）n.
+gown 女人的礼服，女人的睡衣，医生做手术时穿的衣服 n. 穿（刚才说的那些衣服） v.
+pupil (年轻)学生 n.
+tumbler 滚筒，（圆柱体）烧杯，杂技表演者，不倒翁 n.
+hob 烤肉铁网，一种切割刀，传说中给人类捣蛋的小精灵 n.
+shrug （手势）耸肩 n./v. 
+picher 投手 n.
+tuck 卷起 v.
+cove 小洞口，小山洞 n. 【基本上就是cave的同义词】
+perversion 因为心理问题出现的反常且不恰当的行为 n.
+stall 停留 v./n. 停留且休息的地方（比如：家）n. 放进（且留在）某个地方 v.
+propensity 本性 n.
