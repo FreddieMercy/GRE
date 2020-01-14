@@ -407,6 +407,7 @@ eschew  回避 v.
 ruminate 深思熟虑,反复咀嚼 v.
 cogitate 深思熟虑 v.
 contemplation 长时间思考 n.
+deliberate 考量很久的，深思熟虑的 adj. 深思熟虑 v.
 circumspect 深思熟虑的 adj.
 circumlocution 非常绕地说话/阐述 n.
 devour 狼吞虎咽，彻底摧毁,十分享受 v.
