@@ -111,6 +111,8 @@ scorn 不尊重，蔑视 v./n.
 scornful 不尊重的，蔑视的 adj.
 condescending  轻蔑的，高高在上的 adj.
 contemptuous 轻蔑的，（因为讨厌所以）羞辱的 adj.
+despise 轻视 v.
+despite 无论 adv.
 blatant 明显（但又惹人讨厌）的 adj.
 impetuous 冲动的，鲁莽的 adj.
 imprecation  诅咒，咒骂 n.
