@@ -38,6 +38,8 @@ chuckle 微微一笑（百媚生LOL） v./n.
 chortle 捂嘴偷偷笑 n./v.
 grin 微笑 v./n.
 grim 冷酷的，拒人千里之外的 adj.
+diabolic 狡猾邪恶又冷血残忍的 adj.
+diabolical diabolic 同义词 adj.
 callous 冷血的，没感情的 adj. being callous v.
 callus 死皮 n. 长死皮 v.
 relict 被遗弃的东西，寡妇 n.
