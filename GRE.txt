@@ -290,6 +290,8 @@ debase 加入杂质使其更不好 v.
 defile 弄脏，玷污 v. 峡谷，窄路 n.
 taint 污染 n./v.
 impair 污染，玷污，损害 v.
+depravity 道德上的败坏 n.
+despicable 卑劣的，可鄙的 adj.
 squalid 肮脏的，污秽的，卑劣的 adj.
 sully 诽谤，抹黑，污蔑 v.
 denigrate 诽谤，抹黑，污蔑 v.
@@ -633,7 +635,6 @@ chandler （贩卖或者制造）蜡烛香皂或者油的人 n.
 blucher 一种挺高的有舌头的靴子 n.
 butcher 屠夫 n. 屠宰 v.
 magpie 鹊，清道夫，话多且内容没营养的人 n.
-despicable 卑劣的，可鄙的 adj.
 flighty 想法多变的，爱改主意的 adj. （飞到未来里的 Fre）
 capricious 想法多变的,反复无常的 adj.
 caprice 反复无常，突然的欲望 n.
@@ -734,6 +735,7 @@ defuse 移除启动设备 v. 【拔保险丝？】
 delve 耕耘，钻研 v.
 demotic 日常的，不正式的，生活中的 adj.
 denouement 跌宕起伏的剧情后的最终结局 n. 【权力游戏的大结局？】
+denounce （开口说）反对 v.
 denude 剥夺，使赤裸 v.
 deportation 驱逐外（国）人 n.
 depose 驱逐 v. 发誓 v.
