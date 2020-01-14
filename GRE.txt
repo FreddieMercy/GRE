@@ -106,6 +106,7 @@ obscene 下流无耻的， 生殖器挂嘴边儿的 adj.
 flagrant 臭名昭著的，坏到人尽皆知的 adj.
 impertinence 不礼貌，冒犯，鲁莽的学生 n.
 invective 脏话，粗俗且带羞辱性的语言 n.
+demean 羞辱 v.
 derogatory 不尊重的，羞辱性的 adj. [看起来像是pedagogy的反义词]
 scorn 不尊重，蔑视 v./n.
 scornful 不尊重的，蔑视的 adj.
@@ -738,6 +739,7 @@ delve 耕耘，钻研 v.
 demotic 日常的，不正式的，生活中的 adj.
 denouement 跌宕起伏的剧情后的最终结局 n. 【权力游戏的大结局？】
 denounce （开口说）反对 v.
+deplore 强烈反对 v.
 denude 剥夺，使赤裸 v.
 deportation 驱逐外（国）人 n.
 depose 驱逐 v. 发誓 v.
