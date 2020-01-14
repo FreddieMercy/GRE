@@ -733,4 +733,7 @@ decimation 对于特定族群的毁灭或者屠杀 n.
 defuse 移除启动设备 v. 【拔保险丝？】
 delve 耕耘，钻研 v.
 demotic 日常的，不正式的，生活中的 adj.
-
+denouement 跌宕起伏的剧情后的最终结局 n. 【权力游戏的大结局？】
+denude 剥夺，使赤裸 v.
+deportation 驱逐外（国）人 n.
+depose 驱逐 v. 发誓 v.
