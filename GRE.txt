@@ -76,6 +76,8 @@ somniferous （药）安眠的 adj.
 soporific 安眠（其实更像是催眠）的 adj. 安眠药 n.
 vertiginous  眩晕的 adj. 【想想转圈一百下后突然停下来的感觉...】
 hallucinogenic （药）致幻的 adj.
+defoliant 落叶剂 n.
+depressant 镇定剂，抗抑郁药物 n.
 feisty 活跃的（人） adj.
 rascal 混混，无赖，流氓 n.
 ruffian 暴走族，黑社会，流氓，地痞 n.
