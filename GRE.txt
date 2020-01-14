@@ -413,6 +413,7 @@ devour 狼吞虎咽，彻底摧毁,十分享受 v.
 poignant 尖锐的，深刻的 adj.
 trenchant 思想活跃且很有深度的 adj.
 nimble （思维或者行动）敏捷的 adj.
+deft （物理上）技巧很娴熟的（尤其是手部） adj. 
 intersperse 分布，在间歇中穿插点缀 v.
 isochronous 时间间隔相同的 adj.
 fitful 断断续续无休止或不正常的 adj.
@@ -722,3 +723,4 @@ debark （船）登录 v.
 debris 残檐断壁 n.
 decibel 分贝 n.
 decimation 对于特定族群的毁灭或者屠杀 n.
+defuse 移除启动设备 v. 【拔保险丝？】
