@@ -160,6 +160,7 @@ espousal 鼓励， 支持 n.
 embolden 鼓励，加油打气 v.
 bolster 鼓励某人（尤其是此刻心情不好的人）v.
 buttress 支撑，支持 v./n.
+deter 不支持，阻止，把人吓走 v.
 brisk quick and energetic adj. being brisk v.
 indefatigable （有点傻且有点天真乐观的）不知疲倦的，有韧性的 adj. 
 fanatic （不理智地）乐观的 adj. 穷开心的人 n.
@@ -200,6 +201,7 @@ wanton 嬉戏的，挥霍的，水性杨花的 adj. 荡妇 n. 挥霍，嬉戏 v.
 decadent 凯子 n. 生活挥霍无度奢侈又自大不负责任的 adj.
 decadence 堕落 n.
 lapse 堕落（到更糟更低端），重试恶习 v. 马虎造成的错误 n. 结束（很长一段时间）n./v.
+deterioration 恶化，堕落 n.
 infuriating 勃然大大大大怒的 adj.
 vixenish 易怒的，脾气大的 adj.
 pettish 易怒的，脾气大的 adj.
@@ -752,3 +754,4 @@ denude 剥夺，使赤裸 v.
 deportation 驱逐外（国）人 n.
 depose 驱逐 v. 发誓 v.
 deracinate 斩草除根，种族灭绝，连根拔起 v.
+detour 迂回，绕远路 v.
