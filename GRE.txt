@@ -252,7 +252,6 @@ promulgation official statement made to public, often on newspaper n.
 ratification 正式确认 n.
 sanction 同意，惩罚 n.
 medieval 中世纪的 adj.
-staple 主食，（可能是因为喜欢）生活必需品，书钉 n./adj./v.
 peasant 平民/村民/住在乡下的人（经常是缺乏主见的） n.
 paean 节日里唱的赞美的歌 n. 【比如：圣诞歌】
 riddle 很难的问题，一条满是洞的东西 n. 解密，扎孔，散布 v.
@@ -373,6 +372,8 @@ tantalising 诱人的，挑逗的 adj. 勾引 v.
 sycophant 靠取悦某人谋取利益的人 n.
 toady 靠取悦某人谋取利益的人 n. 靠哭闹或者撒娇来企图获得想要的 v.
 snivel （因为太想要某样东西）大哭大闹 v./n.
+desideratum 必需品，非常想要的东西（未必很便宜） n.
+staple 主食，（可能是因为喜欢）生活必需品，书钉 n./adj./v.
 blubber 又哭又闹 v./n. 肿大的 adj. 鲸鱼和其他水中哺乳动物用来漂浮的脂肪层 n. 
 lubber 令人尴尬的蠢货，首次航行什么都不懂的水手 n.
 misgiving (about sb/.sth.) 对某人某事有错误期待或者认为某人不诚实 n.
