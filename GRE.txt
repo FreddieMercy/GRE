@@ -107,11 +107,14 @@ flagrant 臭名昭著的，坏到人尽皆知的 adj.
 impertinence 不礼貌，冒犯，鲁莽的学生 n.
 invective 脏话，粗俗且带羞辱性的语言 n.
 demean 羞辱 v.
+derogative 看低的，减损的 adj.
 derogatory 不尊重的，羞辱性的 adj. [看起来像是pedagogy的反义词]
 scorn 不尊重，蔑视 v./n.
 scornful 不尊重的，蔑视的 adj.
 condescending  轻蔑的，高高在上的 adj.
 contemptuous 轻蔑的，（因为讨厌所以）羞辱的 adj.
+derisive 嘲笑的，用轻蔑鄙视看不起的态度跟人讲话的 adj.
+deride 用轻蔑鄙视看不起的态度跟人讲话 v.
 despise 轻视 v.
 despite 无论 adv.
 blatant 明显（但又惹人讨厌）的 adj.
@@ -743,3 +746,4 @@ deplore 强烈反对 v.
 denude 剥夺，使赤裸 v.
 deportation 驱逐外（国）人 n.
 depose 驱逐 v. 发誓 v.
+deracinate 斩草除根，种族灭绝，连根拔起 v.
