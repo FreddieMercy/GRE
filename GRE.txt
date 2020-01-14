@@ -196,6 +196,7 @@ egregious 无礼且好战的 adj.
 lichen 苔藓 n. 长苔藓 v.
 gelidity 因为天气导致的coldness n.
 docile willing to be taught/led adj.
+didactic (贬义)像老师一样的，爱说教的 adj.
 pessimistic 悲观的 adj.
 morbid 厌世的，想死的，精神不正常的 adj.
 wastrel 凯子 n. 【真的... 真的是凯子 - - LL】
@@ -327,6 +328,7 @@ tethered 拴着的 adj. 【比如：马是拴着的】
 pliant 弹性的，可弯曲的 adj.
 transigent 妥协的人 n. 能妥协的 adj.
 intransigent 固执的，不妥协的 adj.
+die-hard （家长）顽固的，封建的，死板的 adj.
 stiff 强硬的，僵硬的，醉了的 adj. 普通的“人”（活人或者死人）n. 非常僵硬地 adv.
 implacable 无法安抚的，很难和解的 adj.
 placable easily calmed, gentle and forgiving adj.
@@ -761,3 +763,4 @@ depose 驱逐 v. 发誓 v.
 deracinate 斩草除根，种族灭绝，连根拔起 v.
 detour 迂回，绕远路 v.
 dew 露水 n. 结露水，打湿 v.
+diaphanous 因为太薄所以几乎透明的 adj.
