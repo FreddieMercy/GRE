@@ -87,6 +87,7 @@ bluff 吓唬，断崖 v./n.
 steed 坐骑 n.
 ire 强烈的愤怒（基本是因为或者起源于一种原罪）n.
 ira 强烈的愤怒（基本是因为或者起源于一种原罪）n. [ire的同义词，是不是古人拼错了？]
+delirium （一种精神状态）兴奋，好战，亢奋 n.
 pugnacious ready to fight n.
 truculent 好战的 adj.
 scrappy 好战的想战的 adj.
@@ -718,6 +719,7 @@ cleft （用来表示把东西一分为二的）裂痕 n. 【比如：屁股下�
 clog 阻碍，堵塞 v./n. 一种木底儿的鞋子 n.
 cloture vote to stop debate v./n.
 cloudburst 倾盆大雨 n.
+deluge 倾盆大雨，水位上移，洪水 n. 窒息，沉没，淹没 v.
 clout 特殊的影响力,药引子，直拳 n.
 coagulant 凝血剂 n.
 debark （船）登录 v.
@@ -725,3 +727,4 @@ debris 残檐断壁 n.
 decibel 分贝 n.
 decimation 对于特定族群的毁灭或者屠杀 n.
 defuse 移除启动设备 v. 【拔保险丝？】
+delve 耕耘，钻研 v.
