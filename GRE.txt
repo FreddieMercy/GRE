@@ -343,6 +343,7 @@ palpable (对于某些不可控的事或物)可控制的 adj.
 desultory 漫无目的的 adj.
 pensive 不高兴郁郁寡欢而且严肃的 adj.
 wistful pensive 同义词 adj.
+desiccate 脱水，没生机 adj.
 bleak （心情上或者天气）昏暗的 adj.
 lackluster 没有活力或者资质平庸的 adj.
 languid 无精打采没有活力的 adj.
