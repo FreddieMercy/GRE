@@ -167,16 +167,11 @@ deter 不支持，阻止，把人吓走 v.
 brisk quick and energetic adj. being brisk v.
 indefatigable （有点傻且有点天真乐观的）不知疲倦的，有韧性的 adj. 
 fanatic （不理智地）乐观的 adj. 穷开心的人 n.
-gregarious 外向阳光合群且愿意形成小团体的 adj.
-winsome 天真可爱阳光的 adj.
-boisterous 活跃的但又闹腾跟个傻子似的， full of animal spirit adj. [用来形容派大星最合适了]
-carouse (因为喝醉了) 活跃闹腾像个傻子 v./n.
-covort 疯狂得像个傻子似的 （be boisterous）v.
 frolicsome  幸福的,嬉戏的 adj.
-convival 欢乐的，宴会玩乐的 adj. 
+convivial 欢乐的，宴会玩乐的 adj. 
 gaiety 幸福时光，merriment n.
 intrepidity 无畏 n.
-inpudent 胆子大脸皮也厚的 adj.
+impudent 胆子大脸皮也厚的 adj.
 bumptious 极端自利而且脸皮厚不惜惹怒别人剥夺别人利益也要对自己好的 adj.
 temerity 胆大无畏 n.
 sagacity 理解能力 n.
@@ -467,9 +462,15 @@ trite 滥用，used too often v.
 bromide 陈词滥调 n.
 cliche 陈词滥调 n.
 clique 一群志气相投的人（小团体） n.
-cohort 一群战士，一群支持者，一群年纪相仿的人 n.
 throng 聚拢 v. 一群（人或者动物） n.
 covey （人）一队，一群 n.
+cohort 一群战士，一群支持者，一群年纪相仿的人 n.
+cavort 疯狂得像个傻子似的 （be boisterous）v.
+caveat 警告，警告信 n.
+carouse (因为喝醉了) 活跃闹腾像个傻子 v./n.
+gregarious 外向阳光合群且愿意形成小团体的 adj.
+winsome 天真可爱阳光的 adj.
+boisterous 活跃的但又闹腾跟个傻子似的， full of animal spirit adj. [用来形容派大星最合适了]
 expurgate 审查并清除（不良语言）v.
 bowdlerize 删除激进内容 v.
 symptomatic 症状的 adj.
@@ -675,7 +676,7 @@ pupil (年轻)学生 n.
 tumbler 滚筒，（圆柱体）烧杯，杂技表演者，不倒翁 n.
 hob 烤肉铁网，一种切割刀，传说中给人类捣蛋的小精灵 n.
 shrug （手势）耸肩 n./v. 
-picher 投手 n.
+pitcher 投手 n.
 tuck 卷起 v.
 cove 小洞口，小山洞 n. 【基本上就是cave的同义词】
 cavern 用于居住的山洞或者防空洞或者任何封闭的空间 n. 制造这样一个用于居住的洞 v.
@@ -730,7 +731,6 @@ caricature （对某人）恶搞模仿，丑化 v./n.
 charade 作秀 n.
 cameo 浮雕 n.
 cavalier 骑士 n. 漫不经心无忧无虑的 adj.
-caveat 警告，警告信 n.
 celerity 很快的速度 n.
 chameleon 变色龙 n.
 chauvinism 民粹主义，盲目爱国 n.
