@@ -7,6 +7,8 @@ voguish （服饰）时髦精美但可能脆弱的 adj.
 plush 精美华丽的 adj. 貂绒 n.
 velvet 精美的，华美的 adj. 精美的服饰 n.
 semblance 假装出来的正向的印象 adj.
+disguise 伪装 v./n.
+dissemble 伪装 v.
 rococo 徒有華麗外表內容空虛的裝飾樣式 n. 徒有華麗外表內容空虛的 adj.
 adorn 装饰 v.
 attire （华丽的）服装 n. 打扮 v.
@@ -238,6 +240,7 @@ bumble 不稳定地行走或说话 v.
 tread 行走，结伴行走 v.
 saunter 漫步 n./v.
 stagger 困难地走，步履蹒跚 v. 
+dodder 步履蹒跚，艰难行走 v.
 budge 挪动 v.
 gradual 非常慢，一点一点一点点进行的 adj.
 slink 潜逃 v./n.
@@ -301,6 +304,8 @@ impair 污染，玷污，损害 v.
 depravity 道德上的败坏 n.
 despicable 卑劣的，可鄙的 adj.
 squalid 肮脏的，污秽的，卑劣的 adj.
+disseminate 散布 v.
+dissipate 扩散，散布，渐行渐远 v.
 sully 诽谤，抹黑，污蔑 v.
 denigrate 诽谤，抹黑，污蔑 v.
 slander 诽谤 v./n.
@@ -323,6 +328,7 @@ tethered 拴着的 adj. 【比如：马是拴着的】
 pliant 弹性的，可弯曲的 adj.
 transigent 妥协的人 n. 能妥协的 adj.
 intransigent 固执的，不妥协的 adj.
+dogged 固执的 adj.
 die-hard （家长）顽固的，封建的，死板的 adj.
 stiff 强硬的，僵硬的，醉了的 adj. 普通的“人”（活人或者死人）n. 非常僵硬地 adv.
 implacable 无法安抚的，很难和解的 adj.
@@ -345,6 +351,7 @@ renown 名望很高并且广为人知的 adj.
 palpable (对于某些不可控的事或物)可控制的 adj.
 desultory 漫无目的的 adj.
 pensive 不高兴郁郁寡欢而且严肃的 adj.
+disgruntle 不高兴 v.
 wistful pensive 同义词 adj.
 desiccate 脱水，没生机 adj.
 bleak （心情上或者天气）昏暗的 adj.
@@ -366,6 +373,7 @@ torn 撕碎的 adj.
 asunder 撕裂，分开 v. 分成小块 adv.
 avulse （因事故或者手术将人的身体）撕裂 v.
 moulder break down v.
+dissolution 碎裂，破裂，破碎，关系终止 n.
 parcel 小包裹，一个东西的一小块 n. 把一个东西切成小块 v.
 cicatrix 疤痕 n.
 commiseration 对别人的痛苦忧伤感同身受并表示同情与善意 n.
@@ -401,6 +409,7 @@ speculation 视野,前瞻 n.
 spectacle 目击（某些令人震惊或者难堪的事） n.
 tortuous 蜿蜒崎岖的 adj.
 torrid 情绪化的 adj.
+distraught 因为情绪导致发狂的 adj.
 slake （情绪上的）降温，满足，用水降温 v. 【射后的Aaron】
 whet 磨刀，打磨锋利 v.
 tyro 新手，菜鸟 n.
@@ -585,6 +594,7 @@ cravat 一种很好看的英伦的围在脖子上的东西 n. 【我也要买一
 nettle 荨麻 n. 刺激，惹人讨厌 v.
 vestry 教堂更衣室 n. 【做死人洗礼之前换衣服的那个房间】
 interment 安葬 n.
+disinter 开棺（取尸）v.
 bier 棺材支架 n.
 brink 悬崖的边缘，临界点 n.
 surplice 唱诗班穿的那种傻逼衣服 n.
@@ -704,6 +714,7 @@ bogus （欺骗性质地）假的，假货的 adj.
 boggy （泥土）又软又湿富含水分的 adj.
 allot 给予，恩赐，允许拥有，赋予 v.
 eulogy （葬礼上赞美的）悼词 n.
+dirge 挽歌 n.
 ad-lib 即兴表演 n./v./adj.
 ancillary 辅助的 adj.
 appurtenant 辅助的 adj.
@@ -749,6 +760,8 @@ coagulant 凝血剂 n.
 debark （船）登录 v.
 debris 残檐断壁 n.
 detritus 垃圾，残骸，坏了的东西 n.
+dilapidate 毁坏 v.
+dilapidated 毁坏的 adj.
 decibel 分贝 n.
 decimation 对于特定族群的毁灭或者屠杀 n.
 defuse 移除启动设备 v. 【拔保险丝？】
@@ -764,3 +777,40 @@ deracinate 斩草除根，种族灭绝，连根拔起 v.
 detour 迂回，绕远路 v.
 dew 露水 n. 结露水，打湿 v.
 diaphanous 因为太薄所以几乎透明的 adj.
+digress 跑题 v.
+dilate 延展，拓宽，添加细节 v.
+discursive 主题宽泛的，说话内容东拉西扯的 adj.
+dilettante 业余爱好者 n. 业余的 adj.
+dingy 脏的，颜色好难看好脏的 adj.
+diocesan 主管教区的 adj. 郊区主教 n.
+disabuse free someone of a belief that is not true v.
+disaffeted dissatisfied or rebellious adj.
+disarray confused or disorganized 不整洁 n. 混乱的思维 n. 混乱 v.
+disavow 拒绝（承认） v. 
+discern 感知 v.
+discombobulate confuse 困惑，或者被困惑 v.
+discomfit 使不舒服 v.
+discommode 使不舒服或给人添麻烦 v.
+disconcert 使不舒服，使尴尬 v.
+discord 意见不合导致的激烈争吵 n./v.
+discrepancy 差异，不合，不同意 n.
+disparate 截然不同的 adj.
+disparage 说坏话 v.
+discretion 清醒的自由意志 n.
+discretionary 可自由支配的 adj.
+disenfranchise 赋予投票权 v.
+disgorge （正式的）呕吐，反胃 v.
+dismantle 拆开（某物） v.
+dissect 解剖 v.
+dissonance 噪音，争吵声 n.
+dissuade 劝解不要做某事 v. 【persuade 反义词】
+distal 【解剖】末梢的，末端的 adj.
+distend 从内部膨胀 v.
+distill 蒸馏 v.
+ditty 一小段歌 n.
+dofferel 打油诗 n. 打油诗的 adj.
+diurnal 日行的，白天活动的 adj.
+divestiture 销售流水线上制作的产品，剥夺 n.
+divulge 泄露秘密 v.
+doff remove 
+doldrums 赤道无风带， 一段悲情无聊压抑且抑郁的时期 n.
