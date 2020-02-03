@@ -1,5 +1,7 @@
 scrutinize 细阅v.
 peruse 很仔细的阅读 v.
+vigilance 连续高强度注意力集中 n. p.s: 说，你和scrutinize什么关系？是不是他的名词形式？？
+engross 全神贯注 v.
 droll 丑帅的，造型怪异但是可爱的 adj.
 pulchritude 美丽 n.
 exquisite 极度美丽/精美的 adj.
@@ -10,7 +12,9 @@ velvet 精美的，华美的 adj. 精美的服饰 n.
 semblance 假装出来的正向的印象 adj.
 disguise 伪装 v./n.
 dissemble 伪装 v.
+ensemble 合奏，合在一起 n.
 rococo 徒有華麗外表內容空虛的裝飾樣式 n. 徒有華麗外表內容空虛的 adj.
+epaulet 护肩，肩部装饰物 n.
 adorn 装饰 v.
 attire （华丽的）服装 n. 打扮 v.
 comeliness 衣着好看有吸引力 n.
@@ -21,6 +25,7 @@ chimera 想像出的东西 n.
 expatriate 海外侨民 n.
 expatiate 详细讲述，add more details v.
 adumbrate 简单介绍主旨让人理解 v. 
+enunciate 清晰地阐述 v.
 blurb 精明扼要阐明主旨的一段文字 n.
 blurt 断断续续不流畅地想到哪儿说到哪儿 v.
 tally 数（*）n./v.
@@ -43,6 +48,7 @@ diabolic 狡猾邪恶又冷血残忍的 adj.
 diabolical diabolic 同义词 adj.
 callous 冷血的，没感情的 adj. being callous v.
 callus 死皮 n. 长死皮 v.
+epidermis 表皮 n.
 relict 被遗弃的东西，寡妇 n.
 derelict 被遗弃的 adj.
 discreet 自抑的+不显眼的+谨慎的+小心的 adj.
@@ -67,6 +73,7 @@ bane something causing misery or death n. 【骂人扫把星：you bane!】
 detrimental 有害的 adj.
 vicissitude hard time of life n. [i.e: sickness, job loss, death]
 desolation 绝望，悲惨，伤心，痛苦，毁灭 n.
+dissolution 碎裂，破裂，破碎，关系终止 n.
 chagrin 感觉尴尬或者羞辱 n./v.
 bungle 愚蠢的错误 v./n. 【犯了这种错误会被人笑话而自己感觉耻辱】
 contravene 抵触，否认 v.
@@ -131,6 +138,7 @@ recondite  深奥的 adj.
 shrewd 【人】聪明的，有智慧的 adj.
 elusive 深奥的，难懂的， 聪明的 adj. 【有点像recondite,但不全是】
 inscrutability 不可思议+无法调查的程度 n.
+enormity 无法想象的巨大，无法想像的邪恶 n.
 enigma 奇怪的东西，无法解释的东西，困难的问题 n.
 transcendent 卓越的，超出人类理解能力的 adj.
 jocund 欢快的（甚至有点做作） adj.
@@ -159,10 +167,14 @@ ethos 文化上的某种精神或者意志 n.
 prone 有倾向且喜欢的 adj.
 tepid （中性词）温的，不热的 adj.
 fervid 感情强烈的，特别热的 adj.
+entice 劝+利诱 v.
+tempt 引诱，勾引，试炼 v.
+pander 勾引，引诱 v./n.
+tantalising 诱人的，挑逗的 adj. 勾引 v.
+enamor 吸引 v.
 flatter 勾引，挑逗，拍马屁 v.
 flutter 快速振动、扇动 v.
 harrow 耙 n. 耙地，使难过 v. p.s: 猪八戒专用 LOL
-vigilance 连续高强度注意力集中 n. p.s: 说，你和scrutinize什么关系？是不是他的名词形式？？
 espousal 鼓励， 支持 n.
 embolden 鼓励，加油打气 v.
 bolster 鼓励某人（尤其是此刻心情不好的人）v.
@@ -176,6 +188,8 @@ convivial 欢乐的，宴会玩乐的 adj.
 gaiety 幸福时光，merriment n.
 ebullient 极度开心的，开心到不能自已的 adj.
 ecstasy 开心喜悦 n.
+euphoria 充满开心喜悦的感觉 n.
+elate fill with happiness v.
 intrepidity 无畏 n.
 impudent 胆子大脸皮也厚的 adj.
 bumptious 极端自利而且脸皮厚不惜惹怒别人剥夺别人利益也要对自己好的 adj.
@@ -205,6 +219,7 @@ wastrel 凯子 n. 【真的... 真的是凯子 - - LL】
 profligate  凯子，花钱在巨额奢侈品上的人 n.  非常浪费的，不拘束于世俗的 adj.
 wanton 嬉戏的，挥霍的，水性杨花的 adj. 荡妇 n. 挥霍，嬉戏 v.
 decadent 凯子 n. 生活挥霍无度奢侈又自大不负责任的 adj.
+epicure 极注意感官享受的人 n.
 decadence 堕落 n.
 lapse 堕落（到更糟更低端），重试恶习 v. 马虎造成的错误 n. 结束（很长一段时间）n./v.
 deterioration 恶化，堕落 n.
@@ -275,6 +290,7 @@ spurn reject with distain v.
 culpability 有罪的状态 state of guilt n.
 appall 使惊骇（想想如果你脸上纹纹身，你妈的表情）v.
 indigenous 本土的 adj.
+endemic 地方的 adj. 地方特有的病症 n.
 saccharine 特别甜的，甜到齁儿的 adj. 
 pungent （气味）刺鼻的，（味道）太重的 adj.
 prosiac 平庸的 adj.
@@ -341,14 +357,17 @@ ductile 容易被影响的，易变形的，可塑的 adj.
 transigent 妥协的人 n. 能妥协的 adj.
 intransigent 固执的，不妥协的 adj.
 dogged 固执的 adj.
+entrenched 使根深蒂固,挖沟渠 v. 根深蒂固的 adj.
 die-hard （家长）顽固的，封建的，死板的 adj.
 stiff 强硬的，僵硬的，醉了的 adj. 普通的“人”（活人或者死人）n. 非常僵硬地 adv.
 implacable 无法安抚的，很难和解的 adj.
 placable easily calmed, gentle and forgiving adj.
 myopic 短视的 adj. 【和sagacity应该是反义词】
+erratic 意料之外又随机的改变的 adj.
 vagary 意料之外的改变 n.
 awry 因为预料之外的错误导致原先的计划不得不取消或更改的/地 adj./adv
 laudable 十分非常特别值得赞扬的 adj.
+encomium （正式的）称赞 n.
 dreadful 非常糟糕的，令人沮丧的，非常可怕的 adj.
 hapless helpless adj.
 empirical （知识）现实生活中总结出来的 adj.
@@ -366,6 +385,7 @@ pensive 不高兴郁郁寡欢而且严肃的 adj.
 disgruntle 不高兴 v.
 dreary 死气沉沉十分阴郁的 adj.
 wistful pensive 同义词 adj.
+ennui 对某些无聊的事感觉厌倦的那种感觉 n.
 doleful 寂寞落寞伤心痛苦难受的 adj.【是一种内心的感觉，不必非要显现出来】
 dolorous 落寞痛苦难受的 adj. 【表现出来地】
 dour 严厉阴沉的 adj.
@@ -389,14 +409,9 @@ torn 撕碎的 adj.
 asunder 撕裂，分开 v. 分成小块 adv.
 avulse （因事故或者手术将人的身体）撕裂 v.
 moulder break down v.
-dissolution 碎裂，破裂，破碎，关系终止 n.
 parcel 小包裹，一个东西的一小块 n. 把一个东西切成小块 v.
 cicatrix 疤痕 n.
 commiseration 对别人的痛苦忧伤感同身受并表示同情与善意 n.
-entice 劝+利诱 v.
-tempt 引诱，勾引，试炼 v.
-pander 勾引，引诱 v./n.
-tantalising 诱人的，挑逗的 adj. 勾引 v.
 sycophant 靠取悦某人谋取利益的人 n.
 toady 靠取悦某人谋取利益的人 n. 靠哭闹或者撒娇来企图获得想要的 v.
 snivel （因为太想要某样东西）大哭大闹 v./n.
@@ -410,7 +425,9 @@ vested 有兴趣的（interested) adj.
 abjure 放弃之前的宗旨和信条，叛教 v.
 quip 妙语，嘲弄 n./v. 【短短一句信息量爆炸的话，一般有点幽默】
 apothegm 格言（一般短小精炼，容易理解）n.
+epigram 简短但信息量爆炸很好笑的妙语 n. [quip 的同义词]
 apotheosis 杰作，表率 n.
+epitomize 杰出，表率，一个族群中出类拔萃 v.
 jocosity 幽默的特质 n.
 rancorous 讨厌，不喜欢，嫌弃，与之相关的事都很勉强 adj.
 bilious （因为吃坏东西导致的）恶心的，胆汁多的 adj.
@@ -455,6 +472,7 @@ contemplation 长时间思考 n.
 deliberate 考量很久的，深思熟虑的 adj. 深思熟虑 v.
 circumspect 深思熟虑的 adj.
 circumlocution 非常绕地说话/阐述 n.
+drawl 慢吞吞拉长调的说话方式 n. 慢吞吞地说话 v.
 devour 狼吞虎咽，彻底摧毁,十分享受 v.
 poignant 尖锐的，深刻的 adj.
 trenchant 思想活跃且很有深度的 adj.
@@ -481,6 +499,7 @@ accentuate 加强，重读 v.
 attenuate 减弱 v.
 emaciate （物理上）使更薄或者更虚弱 v.
 debilitate 使更衰弱 v.
+enervate 使精神上或道德上衰弱 v.
 shrunken 衰老的，满脸皱纹的 adj.
 wizened 满脸皱纹的 adj.
 threadbare 褶皱的，过于熟悉的 adj.
@@ -554,11 +573,13 @@ expedition 旅行团，冒险队 n.
 pursuance 追求，追寻 n.
 magistrate 大法官，执法者 n.
 notary 公证人 n.
+enjoin 官方的紧急命令（一般是命令禁止某事）v.
 injunction 禁令 n.
 embargo 禁令 n. 禁止 v./n.
 adjoin 毗邻的，衔接的 adj.
 obeisance 敬礼 n.
 mingle 搅拌，混合 v.
+entangle 混进... v.
 manifold 影印纸 n. 复印 v. 非常多 adv.
 darn 补丁，不值钱的东西 n. 打补丁 v.
 proffer 提供 v./n. 【跟 offer 有什么区别？】
@@ -736,6 +757,7 @@ appreciable 察觉的到的，（量）大到足以被察觉的 adj.
 licit 法律上的，合法的 adj.
 foreclose 阻止，禁止，查封 v.
 levy 征收，征用 v./n. 【一般是税款，军饷一类的强制性地】
+ersatz 代用的，人造的，假的 adj. 代用品，赝品 n.
 duplicity 欺骗 n.
 bogus （欺骗性质地）假的，假货的 adj.
 boggy （泥土）又软又湿富含水分的 adj.
@@ -797,6 +819,8 @@ decimation 对于特定族群的毁灭或者屠杀 n.
 defuse 移除启动设备 v. 【拔保险丝？】
 delve 耕耘，钻研 v.
 demotic 日常的，不正式的，生活中的 adj.
+ensue 导致...作为结尾 v.
+epilogue 结局，一小段用于结局的文字 n.
 denouement 跌宕起伏的剧情后的最终结局 n. 【权力游戏的大结局？】
 denounce （开口说）反对 v.
 deplore 强烈反对 v.
@@ -804,6 +828,7 @@ denude 剥夺，使赤裸 v.
 deportation 驱逐外（国）人 n.
 depose 驱逐 v. 发誓 v.
 deracinate 斩草除根，种族灭绝，连根拔起 v.
+eradicate 彻底告别，彻底毁灭，大屠杀 v.
 detour 迂回，绕远路 v.
 dew 露水 n. 结露水，打湿 v.
 diaphanous 因为太薄所以几乎透明的 adj.
@@ -853,7 +878,6 @@ dovetail 完美吻合 v. 完美契合的东西 n.
 downplay 假装不会，假装不重要 v.
 doyen 一个团体里面资历最老的那个人 n.
 Draconian 严刑酷法的，法律非常严厉过分的 adj.
-drawl 慢吞吞拉长调的说话方式 n. 慢吞吞地说话 v.
 drivel 无用的信息 n.
 drudgery 会让人很不情愿去做的枯燥无聊的工作 n.
 dune 沙丘 n.
@@ -875,7 +899,21 @@ effulgence 闪耀夺目亮到刺眼的程度 n.
 effusive 感情洋溢的 adj.
 egalitarian 认为人生来平等的 adj. 认为人生来平等的人
 egotist （中性）以自我为中心的人 n.
-elate fill with happiness v.
 emboss 使突出 v.
 embroider 刺绣 v.
 eminence 杰出 n.
+emollient 香膏，护肤乳 n. 润滑肌肤的 adj.
+enamel 彩饰 v. 釉质，指甲油 n. 【任何可以涂在表面作为保护事后凝固的东西】
+ephemeral 短命的 adj.
+ephiphany 一种基督教节日，一般是每年一月六号，用来庆祝耶稣第一次向外邦人显现 n.
+epistemology 认知论 n. 【我们知道什么，怎么知道的，怎么知道我们知道什么，怎么验证，...】
+epitaph 墓志铭 n.
+equivocal 模棱两可的，模糊的，可以接受提问的 adj.
+equivocate 打马虎眼，含糊 v.
+erode 侵蚀 v. 挖掘（地面），移除土和小石头 v.
+eponym 用某人名字来命名用以纪念此人 n.
+esoteric 秘传的 adj.
+estrange 疏远 v.
+etch 雕刻 v.
+ethereal 像空气一样轻飘飘没有实体最多只能看到一层雾蒙蒙的东西的 adj.
+euphonious 声音悦耳的 adj.
