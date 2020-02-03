@@ -48,6 +48,8 @@ diabolic 狡猾邪恶又冷血残忍的 adj.
 diabolical diabolic 同义词 adj.
 callous 冷血的，没感情的 adj. being callous v.
 callus 死皮 n. 长死皮 v.
+excruciate 家暴，被别人在激烈情绪下折磨 v.
+excruciating 极度疼痛的 adj.
 epidermis 表皮 n.
 relict 被遗弃的东西，寡妇 n.
 derelict 被遗弃的 adj.
@@ -178,6 +180,7 @@ harrow 耙 n. 耙地，使难过 v. p.s: 猪八戒专用 LOL
 espousal 鼓励， 支持 n.
 embolden 鼓励，加油打气 v.
 bolster 鼓励某人（尤其是此刻心情不好的人）v.
+exhort 鼓励，支持，喝彩 v.
 buttress 支撑，支持 v./n.
 deter 不支持，阻止，把人吓走 v.
 brisk quick and energetic adj. being brisk v.
@@ -190,6 +193,7 @@ ebullient 极度开心的，开心到不能自已的 adj.
 ecstasy 开心喜悦 n.
 euphoria 充满开心喜悦的感觉 n.
 elate fill with happiness v.
+exhilarate 使充满睿智/崇高/升华的情感 v.
 intrepidity 无畏 n.
 impudent 胆子大脸皮也厚的 adj.
 bumptious 极端自利而且脸皮厚不惜惹怒别人剥夺别人利益也要对自己好的 adj.
@@ -357,8 +361,10 @@ ductile 容易被影响的，易变形的，可塑的 adj.
 transigent 妥协的人 n. 能妥协的 adj.
 intransigent 固执的，不妥协的 adj.
 dogged 固执的 adj.
-entrenched 使根深蒂固,挖沟渠 v. 根深蒂固的 adj.
 die-hard （家长）顽固的，封建的，死板的 adj.
+entrenched 使根深蒂固,挖沟渠 v. 根深蒂固的 adj.
+excavate 挖掘（各种意义上，挖洞，钻研问题，etc）v.
+erode 侵蚀 v. 挖掘（地面），移除土和小石头 v.
 stiff 强硬的，僵硬的，醉了的 adj. 普通的“人”（活人或者死人）n. 非常僵硬地 adv.
 implacable 无法安抚的，很难和解的 adj.
 placable easily calmed, gentle and forgiving adj.
@@ -428,6 +434,9 @@ apothegm 格言（一般短小精炼，容易理解）n.
 epigram 简短但信息量爆炸很好笑的妙语 n. [quip 的同义词]
 apotheosis 杰作，表率 n.
 epitomize 杰出，表率，一个族群中出类拔萃 v.
+exemplar 榜样，表率 n.
+exemplify 表率 v.
+exempt 被豁免的 adj.
 jocosity 幽默的特质 n.
 rancorous 讨厌，不喜欢，嫌弃，与之相关的事都很勉强 adj.
 bilious （因为吃坏东西导致的）恶心的，胆汁多的 adj.
@@ -785,6 +794,7 @@ tenet (宗教)信条 n.
 precept （宗教上的）信条，价值观，道德观 n.
 broadside （物体的）侧面 n./v./adj.adv. 中伤，伤害人感情的话 n. 
 buck 小男崽儿，美元 n. 反抗，僵着腿垂直跳 v.
+ewe 母绵羊 n. 【美羊羊？】
 bucolic 田园牧歌 n. 田园牧歌的 v.
 burlesque （对影视剧的）恶搞重拍 v./n./adj.
 caricature （对某人）恶搞模仿，丑化 v./n.
@@ -824,9 +834,11 @@ epilogue 结局，一小段用于结局的文字 n.
 denouement 跌宕起伏的剧情后的最终结局 n. 【权力游戏的大结局？】
 denounce （开口说）反对 v.
 deplore 强烈反对 v.
+excoriate 强烈抗议 v. 擦伤 v.
 denude 剥夺，使赤裸 v.
 deportation 驱逐外（国）人 n.
 depose 驱逐 v. 发誓 v.
+evict 驱逐，强制搬离 v. 【一般是因为法律强制要求】
 deracinate 斩草除根，种族灭绝，连根拔起 v.
 eradicate 彻底告别，彻底毁灭，大屠杀 v.
 detour 迂回，绕远路 v.
@@ -835,6 +847,7 @@ diaphanous 因为太薄所以几乎透明的 adj.
 digress 跑题 v.
 dilate 延展，拓宽，添加细节 v.
 discursive 主题宽泛的，说话内容东拉西扯的 adj.
+excursive 跑题的，话题太过宽泛的 adj.
 dilettante 业余爱好者 n. 业余的 adj.
 dingy 脏的，颜色好难看好脏的 adj.
 diocesan 主管教区的 adj. 郊区主教 n.
@@ -905,15 +918,21 @@ eminence 杰出 n.
 emollient 香膏，护肤乳 n. 润滑肌肤的 adj.
 enamel 彩饰 v. 釉质，指甲油 n. 【任何可以涂在表面作为保护事后凝固的东西】
 ephemeral 短命的 adj.
+evanescent 像蒸汽一样转瞬即逝的 adj.
 ephiphany 一种基督教节日，一般是每年一月六号，用来庆祝耶稣第一次向外邦人显现 n.
 epistemology 认知论 n. 【我们知道什么，怎么知道的，怎么知道我们知道什么，怎么验证，...】
 epitaph 墓志铭 n.
 equivocal 模棱两可的，模糊的，可以接受提问的 adj.
 equivocate 打马虎眼，含糊 v.
-erode 侵蚀 v. 挖掘（地面），移除土和小石头 v.
+evasive 打马虎眼的，避免的 adj.
 eponym 用某人名字来命名用以纪念此人 n.
 esoteric 秘传的 adj.
 estrange 疏远 v.
 etch 雕刻 v.
 ethereal 像空气一样轻飘飘没有实体最多只能看到一层雾蒙蒙的东西的 adj.
 euphonious 声音悦耳的 adj.
+evenhanded 全方位的（好），公平无私的 adj.
+exacerbate 使情况/问题/处境更糟糕 v.
+exasperate 激怒，烦人，使情况更糟 v.
+exegesis 解读 n.
+exhaust 排出，耗尽 v. 汽车尾气 n./v.
