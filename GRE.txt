@@ -33,7 +33,9 @@ opine 说出来的想法 v.
 moot 没有实际意义但可以用来练习的提案 n./v./adj.
 prescience 预知未来的能力 n.
 foreshadow 预言 v.
+exigent 迫切的 adj.
 prominent 显眼的并无法被忽视的，cannot be omitted adj.
+fascinate 精彩夺目的 adj.
 homonym 同音字 n.
 metonym 转喻（i.e: 她给男朋友充电）n.
 antonym 反义词 n.
@@ -125,6 +127,7 @@ scorn 不尊重，蔑视 v./n.
 scornful 不尊重的，蔑视的 adj.
 condescending  轻蔑的，高高在上的 adj.
 contemptuous 轻蔑的，（因为讨厌所以）羞辱的 adj.
+flout 看不起某人,嘲笑 v.
 derisive 嘲笑的，用轻蔑鄙视看不起的态度跟人讲话的 adj.
 deride 用轻蔑鄙视看不起的态度跟人讲话 v.
 despise 轻视 v.
@@ -193,6 +196,9 @@ ebullient 极度开心的，开心到不能自已的 adj.
 ecstasy 开心喜悦 n.
 euphoria 充满开心喜悦的感觉 n.
 elate fill with happiness v.
+fervor 一种充满温暖和激情的感觉 n.
+exult 高兴到不受控制 v.
+exuberant 高兴到失去控制的 adj.
 exhilarate 使充满睿智/崇高/升华的情感 v.
 intrepidity 无畏 n.
 impudent 胆子大脸皮也厚的 adj.
@@ -201,8 +207,11 @@ effrontery (暴力)侵权耍无赖的行为 n.
 temerity 胆大无畏 n.
 sagacity 理解能力 n.
 scarcity 很少且不足的数量 n.
+fatuous 无知的 adj.
+feckless 不负责任又没有竞争力的 adj.
 insolvent 无法负担金融责任的（就是穷） adj. 资不抵债的人 n.
 paucity 拥有的数量不够不足 n. 【简单来讲就是穷】
+exiguous 狭小的，稀少的 adj.
 nugatory 无价值的，一文不值的 adj.
 vargrant 极度贫困的人 n. 无固定住所或无固定工作的 adj.
 destitute 极度贫穷的，需要帮助的 adj.
@@ -224,6 +233,7 @@ profligate  凯子，花钱在巨额奢侈品上的人 n.  非常浪费的，不
 wanton 嬉戏的，挥霍的，水性杨花的 adj. 荡妇 n. 挥霍，嬉戏 v.
 decadent 凯子 n. 生活挥霍无度奢侈又自大不负责任的 adj.
 epicure 极注意感官享受的人 n.
+fastidious 极度注重细节的，生活精致的 adj.
 decadence 堕落 n.
 lapse 堕落（到更糟更低端），重试恶习 v. 马虎造成的错误 n. 结束（很长一段时间）n./v.
 deterioration 恶化，堕落 n.
@@ -247,6 +257,7 @@ boor 残忍的人 n.
 monstrous （因为奇形怪状导致）吓人的，体型异常巨大的，恐怖残忍变态的 adj.
 atrocious 特别残忍野蛮没人性的,邪恶的 adj.
 atrophy （肌肉或者身体的某种组织）萎缩 n. / v.
+feeble 虚弱的 adj.
 shrivel 枯萎 v.
 stale  不新鲜的 adj. 不新鲜 v.
 steadfastness 坚定不移 n.
@@ -266,8 +277,12 @@ tread 行走，结伴行走 v.
 saunter 漫步 n./v.
 stagger 困难地走，步履蹒跚 v. 
 dodder 步履蹒跚，艰难行走 v.
+fluctuate 以波浪形移动 v.
 budge 挪动 v.
 gradual 非常慢，一点一点一点点进行的 adj.
+flounce （大摇大摆很欠揍的）走路 n./v. 用来装饰用的彩条 n.
+flounder 很艰难地走 v. 比目鱼 n.
+falter 犹豫 v. 颤颤巍巍地走 v.
 slink 潜逃 v./n.
 glimpse 瞥一眼 v./n.
 descry glimpse 同义词 v.
@@ -297,6 +312,7 @@ indigenous 本土的 adj.
 endemic 地方的 adj. 地方特有的病症 n.
 saccharine 特别甜的，甜到齁儿的 adj. 
 pungent （气味）刺鼻的，（味道）太重的 adj.
+fetid 气味难闻的 adj.
 prosiac 平庸的 adj.
 vapid 平庸的，无趣的 adj.
 tenuous thin adj. 【和 narrow 有点像是同义词】
@@ -304,6 +320,7 @@ confer 开个会（并出席）来讨论某事 v.
 mourn 因为深爱的人死亡而感到悲痛欲绝 v.
 elegiac 缅怀过去的（一般是mournful past）adj.
 prowess 某种特殊且卓越而且出众的能力 n.
+facile 实力很强+大意的，骄傲的 adj.
 prosper thrive, succeed, do well v.
 arduous 需要很多努力的 adj.
 knack 窍门 n.
@@ -330,6 +347,7 @@ perpetual 永久(并且连续)的 adj.
 struck （因为某事）震惊的 adj.
 debase 加入杂质使其更不好 v.
 defile 弄脏，玷污 v. 峡谷，窄路 n.
+flaw 瑕疵 v./n.
 taint 污染 n./v.
 impair 污染，玷污，损害 v.
 depravity 道德上的败坏 n.
@@ -365,7 +383,9 @@ die-hard （家长）顽固的，封建的，死板的 adj.
 entrenched 使根深蒂固,挖沟渠 v. 根深蒂固的 adj.
 excavate 挖掘（各种意义上，挖洞，钻研问题，etc）v.
 erode 侵蚀 v. 挖掘（地面），移除土和小石头 v.
+ferret 白鼬，雪貂 n. 像白鼬雪貂一样搜索、挖掘、翻土 v.
 stiff 强硬的，僵硬的，醉了的 adj. 普通的“人”（活人或者死人）n. 非常僵硬地 adv.
+flaccid 僵硬的（一般是肢体，因为没感情或者太紧张，看起来很尴尬）adj. 因为时间太久导致脆弱到不能用或者无法保持长久的 adj.
 implacable 无法安抚的，很难和解的 adj.
 placable easily calmed, gentle and forgiving adj.
 myopic 短视的 adj. 【和sagacity应该是反义词】
@@ -373,6 +393,7 @@ erratic 意料之外又随机的改变的 adj.
 vagary 意料之外的改变 n.
 awry 因为预料之外的错误导致原先的计划不得不取消或更改的/地 adj./adv
 laudable 十分非常特别值得赞扬的 adj.
+exploit 英雄事迹 n. 做出英雄事迹 v.
 encomium （正式的）称赞 n.
 dreadful 非常糟糕的，令人沮丧的，非常可怕的 adj.
 hapless helpless adj.
@@ -509,6 +530,8 @@ attenuate 减弱 v.
 emaciate （物理上）使更薄或者更虚弱 v.
 debilitate 使更衰弱 v.
 enervate 使精神上或道德上衰弱 v.
+extenuate 减弱，减少 v.
+extenuating making forgivable adj.
 shrunken 衰老的，满脸皱纹的 adj.
 wizened 满脸皱纹的 adj.
 threadbare 褶皱的，过于熟悉的 adj.
@@ -518,6 +541,7 @@ trite 滥用，used too often v.
 embezzle 滥用公物，公物私用，挪用 v.
 bromide 陈词滥调 n.
 cliche 陈词滥调 n.
+faction 令人讨厌的陈词滥调 n. 分数（几分之几的那个分数） n.
 clique 一群志气相投的人（小团体） n.
 throng 聚拢 v. 一群（人或者动物） n.
 covey （人）一队，一群 n.
@@ -553,6 +577,7 @@ stray  漫无目的的走，（在某种形式的交流中）跑题且无主题 
 wander 迷失，漫无目的的走，婚姻中不忠诚，不直接地给某物给某人 v. 
 nudge  （因为不情愿）抵抗 v./n.
 pinioned 有翅膀的，被捆住的 adj. 捆住 v.
+fetter 束缚 v./n. 脚镣 n.
 shriek 尖叫（真的是高音尖叫，人类的）v./n.
 conclave 非常秘密的集会 n.
 depicted  勾勒的，描写出画面来的 adj. [像我小时候写作文时的手法]
@@ -595,6 +620,7 @@ proffer 提供 v./n. 【跟 offer 有什么区别？】
 snuffbox 鼻烟壶 n.
 inure 使...习惯，使用，起作用 v.
 tush 臀部 n.
+fledge 长羽毛，用羽毛装饰，抚养雏鸟 v.
 pledge 非常慎重的保证 n./v. 将要加入但还未加入的成员 n. 定期的慈善捐款 n.
 hedge 篱笆 n.
 wedge （挡门用的）栓 n. (使用这个)栓 v.
@@ -629,7 +655,6 @@ sneer 苦笑 n./v.
 jeer 嘲笑 n./v.
 scowl 愤怒的脸部表情，脸上的愤怒 v./n.
 heaver 挑夫，举起东西用的杠杆，举起东西的人或者工具 n.
-flounce （大摇大摆很欠揍的）走路 n./v. 用来装饰用的彩条 n.
 tenement （勉强可以称为房子的）房子 n.
 kennel 狗屋，阴沟 n. 关进狗屋 v.
 edifice 地标性建筑 n.
@@ -688,6 +713,7 @@ parley 敌我之间的会谈 n./v.
 profuse 特别特别特别多的（甚至有些过分了） adj.
 galore 特别特别特别多的，难以置信数量的 adj.
 vast 特别特别特别多的 adj. (enormous同义词)
+exorbitant （数量）过多的 adj.
 discourse （正式）讲述，论述 v./n.
 allusion 暗示 n.
 recommence 重新开张，重新开始 v.
@@ -699,6 +725,7 @@ bethink 使沉思 v.
 stile 阶梯 n.
 lad 男孩或者男人 n.
 breed 繁衍 v. [还有名词词性，但搞不懂是啥意思]
+fecund 多子的，易受孕的，很能生孩子的 adj.
 slacken 使变慢，使松弛（比如拧开瓶盖）使平淡 v.
 meadow 草场，牧场 n.
 hayrick 草垛 n.
@@ -718,9 +745,12 @@ chandler （贩卖或者制造）蜡烛香皂或者油的人 n.
 blucher 一种挺高的有舌头的靴子 n.
 butcher 屠夫 n. 屠宰 v.
 magpie 鹊，清道夫，话多且内容没营养的人 n.
+finch 小雀儿 n. 【鸟...】
+flinch 因为疼痛导致的反应（大叫，后退，etc）v./n.
 flighty 想法多变的，爱改主意的 adj. （飞到未来里的 Fre）
 capricious 想法多变的,反复无常的 adj.
 caprice 反复无常，突然的欲望 n.
+fickle 想法多变朝三暮四不可靠的 adj.
 irresolute 优柔寡断拿不定主意的 adj.
 benefactor 赞助人 n.
 patron 赞助人 n.
@@ -769,13 +799,17 @@ levy 征收，征用 v./n. 【一般是税款，军饷一类的强制性地】
 ersatz 代用的，人造的，假的 adj. 代用品，赝品 n.
 duplicity 欺骗 n.
 bogus （欺骗性质地）假的，假货的 adj.
+fictitious (带有欺骗性质地)想像的/捏造的 adj.
+factitious 人造的，假的 adj.
 boggy （泥土）又软又湿富含水分的 adj.
 allot 给予，恩赐，允许拥有，赋予 v.
 eulogy （葬礼上赞美的）悼词 n.
 dirge 挽歌 n.
 ad-lib 即兴表演 n./v./adj.
+extemporize 即兴表演 v.
 ancillary 辅助的 adj.
 appurtenant 辅助的 adj.
+facilitate 使更容易 v.
 apophasis mentioning something by saying it will not be mentioned n.
 apron 围裙 n.
 appropos 适当的/地 adj./adv.
@@ -795,9 +829,13 @@ precept （宗教上的）信条，价值观，道德观 n.
 broadside （物体的）侧面 n./v./adj.adv. 中伤，伤害人感情的话 n. 
 buck 小男崽儿，美元 n. 反抗，僵着腿垂直跳 v.
 ewe 母绵羊 n. 【美羊羊？】
+fawn 小鹿崽儿 n. 靠卖萌达成目的 v.
+filly 小于四岁的小母马 n.
+eaglet 小鹰崽儿 n.
 bucolic 田园牧歌 n. 田园牧歌的 v.
 burlesque （对影视剧的）恶搞重拍 v./n./adj.
 caricature （对某人）恶搞模仿，丑化 v./n.
+farce 讽刺漫画（一般是讽刺时事的） n.
 charade 作秀 n.
 cameo 浮雕 n.
 cavalier 骑士 n. 漫不经心无忧无虑的 adj.
@@ -841,11 +879,13 @@ depose 驱逐 v. 发誓 v.
 evict 驱逐，强制搬离 v. 【一般是因为法律强制要求】
 deracinate 斩草除根，种族灭绝，连根拔起 v.
 eradicate 彻底告别，彻底毁灭，大屠杀 v.
+extinguish 彻底摆脱，彻底毁灭 v.
 detour 迂回，绕远路 v.
 dew 露水 n. 结露水，打湿 v.
 diaphanous 因为太薄所以几乎透明的 adj.
 digress 跑题 v.
 dilate 延展，拓宽，添加细节 v.
+expound 明确，增加细节 v.
 discursive 主题宽泛的，说话内容东拉西扯的 adj.
 excursive 跑题的，话题太过宽泛的 adj.
 dilettante 业余爱好者 n. 业余的 adj.
@@ -896,7 +936,6 @@ drudgery 会让人很不情愿去做的枯燥无聊的工作 n.
 dune 沙丘 n.
 dyslexia 阅读障碍症 n.
 dyspeptic 因为消化不良或者抑郁导致情绪波动的 adj. 因为消化不良或者抑郁导致情绪波动的人 n.
-eaglet 小鹰崽儿 n.
 earshot 听力范围 n.
 earsplitting 声音太大足以导致暂时耳聋的 adj.
 easal 画架 n.
@@ -936,3 +975,31 @@ exacerbate 使情况/问题/处境更糟糕 v.
 exasperate 激怒，烦人，使情况更糟 v.
 exegesis 解读 n.
 exhaust 排出，耗尽 v. 汽车尾气 n./v.
+expiate 为自己或者他人赎罪 v.
+expunge 用线划掉， stroke through v.
+extort 勒索，敲诈 v.
+extricate 解放 v.
+exude 渗出 v.
+fable 寓言故事 n.
+fallacy 错误前提导致的错误结论 n.
+fallow 闲置未用的（甚至是有点浪费的）adj.
+fathom 彻底明白 v. 一种测量水深的单位（一般是6 feet) n./v.
+faultfinder 挑毛病的人 n.
+fail-safe 保证不会失败的 adj.
+faze 打扰，打断，干扰 v.
+fender （汽车的）挡泥板，保护层 n.
+ferrous 含铁的 adj.
+fester （不好的东西）成长/蔓延/肆虐 v.
+fete party(generally outdoor),festival n. celebrate v.
+fiasco 人祸 n.
+figurehead 负责人 n.
+figurine 小雕像（一般是人型的，而且容易碎）n.
+filibuster 故意拖延以阻碍某事或等某事失效（一般用于政治和司法上）n./v.
+filigree 精美的装饰品（一般是金属制品） n.
+filing 法律文件变成公共记录 n.
+finagle 假装..用以逃避某事（比如装病）v.
+finesse 很强的控场能力 n.
+firebrand 用来烧的木头，惹祸精 n.
+flax 亚麻，亚麻制品 n.
+fleece 羊毛大衣 n. 薅羊毛（各种意义上... 薅羊的毛或者占便宜）v.
+flit 快速的行动，私底下的小动作 v./n.
