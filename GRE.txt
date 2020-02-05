@@ -79,6 +79,7 @@ vicissitude hard time of life n. [i.e: sickness, job loss, death]
 desolation 绝望，悲惨，伤心，痛苦，毁灭 n.
 dissolution 碎裂，破裂，破碎，关系终止 n.
 chagrin 感觉尴尬或者羞辱 n./v.
+gaffe 会丢人会尴尬会显得很蠢的举动 n.
 bungle 愚蠢的错误 v./n. 【犯了这种错误会被人笑话而自己感觉耻辱】
 contravene 抵触，否认 v.
 crucible 用来装熔点特别高（比如：液化铁）的液体的容器 n.
@@ -99,6 +100,7 @@ feisty 活跃的（人） adj.
 rascal 混混，无赖，流氓 n.
 ruffian 暴走族，黑社会，流氓，地痞 n.
 churl 又脏又没礼貌的人 n.
+frowsy 邋遢的 adj.
 sly 狡猾的，善于欺骗的 adj.
 bluff 吓唬，断崖 v./n.
 steed 坐骑 n.
@@ -110,7 +112,9 @@ truculent 好战的 adj.
 scrappy 好战的想战的 adj.
 apoplectic 生气激怒满腔怒火气到不能说话的 adj.
 fractious 易怒的 adj.
+fracture 断裂，骨折，打断，损毁 v.
 facetious 幽默的，开玩笑的 adj.
+frenzy 兽性，想使用暴力的极端情绪 n.
 rattle 制造连续尖锐的噪音 v. 连续的尖锐的噪音 n. [比如焦急等待时跺脚的噪音]
 brash offensively bold adj.
 provocative （观点）尖锐的 adj.
@@ -137,6 +141,7 @@ impetuous 冲动的，鲁莽的 adj.
 imprecation  诅咒，咒骂 n.
 imperative 必要的，十分重要的，需要特别高度关注的 adj.
 giddy 不严肃且不靠谱的 adj.
+frivolous 愚蠢或者不需要的 adj.
 intriguing  （甚至有点算多动）容易提起兴趣以及好奇心的 adj.
 vexing  annoying adj.
 recondite  深奥的 adj.
@@ -201,12 +206,14 @@ exult 高兴到不受控制 v.
 exuberant 高兴到失去控制的 adj.
 exhilarate 使充满睿智/崇高/升华的情感 v.
 intrepidity 无畏 n.
+foolhardy 有勇无谋的 adj.
 impudent 胆子大脸皮也厚的 adj.
 bumptious 极端自利而且脸皮厚不惜惹怒别人剥夺别人利益也要对自己好的 adj.
 effrontery (暴力)侵权耍无赖的行为 n.
 temerity 胆大无畏 n.
 sagacity 理解能力 n.
 scarcity 很少且不足的数量 n.
+gadfly 问东问西还批评你的那种讨厌的人 n. 【比如 Eric】
 fatuous 无知的 adj.
 feckless 不负责任又没有竞争力的 adj.
 insolvent 无法负担金融责任的（就是穷） adj. 资不抵债的人 n.
@@ -279,6 +286,7 @@ stagger 困难地走，步履蹒跚 v.
 dodder 步履蹒跚，艰难行走 v.
 fluctuate 以波浪形移动 v.
 budge 挪动 v.
+gait 走路姿势 n. 【邯郸学步？】
 gradual 非常慢，一点一点一点点进行的 adj.
 flounce （大摇大摆很欠揍的）走路 n./v. 用来装饰用的彩条 n.
 flounder 很艰难地走 v. 比目鱼 n.
@@ -291,6 +299,7 @@ prim 显得礼貌一本正经甚至有点呆板的 adj. 表现得礼貌一本正
 staid 庄重到无聊的 adj. 【想想天主教的弥撒...就是staid】【和prim好像...】
 blister 水泡 n. 起水泡 v.
 prelude 开场 n./v.
+foreword 开场的演讲 n.
 inception 开场, 正式开始前的活动 n.
 incipient 早期的，未成形的 adj.
 inchoate incipient 同义词 adj.
@@ -313,6 +322,7 @@ endemic 地方的 adj. 地方特有的病症 n.
 saccharine 特别甜的，甜到齁儿的 adj. 
 pungent （气味）刺鼻的，（味道）太重的 adj.
 fetid 气味难闻的 adj.
+fusty 散发出因为脏或者不讲卫生的味道的 adj. (样式)腐朽的 adj.
 prosiac 平庸的 adj.
 vapid 平庸的，无趣的 adj.
 tenuous thin adj. 【和 narrow 有点像是同义词】
@@ -331,6 +341,7 @@ crank 扳子, 脾气很糟糕的人 n. 扳动，扳紧 v.
 cemetery 公墓 n.
 finicky 特别注重细节的 adj. [比detailed还严重，不是强迫症就是在刁难]
 cavil 吹毛求疵 v./n.
+fussy 吹毛求疵（甚至有点讨厌）的 adj.
 cagey 读空气能力很好的，友善额 adj.
 viticulture 葡萄种植 n.
 esurient 极度饥饿的 adj.
@@ -348,6 +359,7 @@ struck （因为某事）震惊的 adj.
 debase 加入杂质使其更不好 v.
 defile 弄脏，玷污 v. 峡谷，窄路 n.
 flaw 瑕疵 v./n.
+foible 瑕疵，小缺点 n.
 taint 污染 n./v.
 impair 污染，玷污，损害 v.
 depravity 道德上的败坏 n.
@@ -415,6 +427,7 @@ wistful pensive 同义词 adj.
 ennui 对某些无聊的事感觉厌倦的那种感觉 n.
 doleful 寂寞落寞伤心痛苦难受的 adj.【是一种内心的感觉，不必非要显现出来】
 dolorous 落寞痛苦难受的 adj. 【表现出来地】
+forlorn 绝望的 adj.
 dour 严厉阴沉的 adj.
 desiccate 脱水，没生机 adj.
 bleak （心情上或者天气）昏暗的 adj.
@@ -472,6 +485,7 @@ speculation 视野,前瞻 n.
 spectacle 目击（某些令人震惊或者难堪的事） n.
 tortuous 蜿蜒崎岖的 adj.
 torrid 情绪化的 adj.
+gall 肝液 n. 肝液飙升（生气，愤怒）v.
 distraught 因为情绪导致发狂的 adj.
 slake （情绪上的）降温，满足，用水降温 v. 【射后的Aaron】
 whet 磨刀，打磨锋利 v.
@@ -486,6 +500,7 @@ protean  变形的,形状多变的 adj. [毕加索的画就很 protean ]
 deem view as ... , judge sth v.
 dome 圆顶建筑的那个圆顶 n.
 brow 额头，山顶 n.
+fresco 用水彩画的历久弥新的在墙壁上或者天棚上的壁画 v./n.
 browbeat 审问 v.
 chicanery 狡辩 n.
 elbow 肘部 n. 肘击 v.
@@ -525,6 +540,7 @@ neologism 新生词汇 n.
 obfuscate 使模糊，使含糊不清 v.
 transient 只存在一瞬间的人或者物 n. 转瞬即逝的 adj.
 trestle 桥墩 n.
+fortify 使更强，增加营养，参军前的体能训练 v.
 accentuate 加强，重读 v.
 attenuate 减弱 v.
 emaciate （物理上）使更薄或者更虚弱 v.
@@ -549,6 +565,7 @@ cohort 一群战士，一群支持者，一群年纪相仿的人 n.
 cavort 疯狂得像个傻子似的 （be boisterous）v.
 caveat 警告，警告信 n.
 carouse (因为喝醉了) 活跃闹腾像个傻子 v./n.
+gambol 玩儿疯了 v. 同性恋的约炮 n.
 gregarious 外向阳光合群且愿意形成小团体的 adj.
 winsome 天真可爱阳光的 adj.
 boisterous 活跃的但又闹腾跟个傻子似的， full of animal spirit adj. [用来形容派大星最合适了]
@@ -708,6 +725,7 @@ bristle 害怕，汗毛直立 v. （因为恐惧）直立的汗毛 n.
 frightful fearful adj.
 chide 严肃怒视的脸部表情 v. 【想想Kiernon让我害怕的脸】
 fret 害怕（被吃掉），用#字（格子）装饰，摩擦，拧紧，掐 v. #字装饰，擦伤 n.
+fretful 紧张到无法休息的 adj.
 sepulchral 阴森森的，坟墓的 adj.
 parley 敌我之间的会谈 n./v.
 profuse 特别特别特别多的（甚至有些过分了） adj.
@@ -795,12 +813,14 @@ unconscionable （量太小，或者太细节）无法查觉的,无知觉的 adj
 appreciable 察觉的到的，（量）大到足以被察觉的 adj.
 licit 法律上的，合法的 adj.
 foreclose 阻止，禁止，查封 v.
+foil 阻止 v. 锡纸 n.
 levy 征收，征用 v./n. 【一般是税款，军饷一类的强制性地】
 ersatz 代用的，人造的，假的 adj. 代用品，赝品 n.
 duplicity 欺骗 n.
 bogus （欺骗性质地）假的，假货的 adj.
 fictitious (带有欺骗性质地)想像的/捏造的 adj.
 factitious 人造的，假的 adj.
+forgery 赝品 n.
 boggy （泥土）又软又湿富含水分的 adj.
 allot 给予，恩赐，允许拥有，赋予 v.
 eulogy （葬礼上赞美的）悼词 n.
@@ -945,6 +965,7 @@ eddy 旋涡 v./n.
 efface 擦掉 (wipe)，抹除（记忆），使不显眼 v.
 effervesce 兴奋 v. 冒泡 v.
 effervescent 兴奋的，冒泡的 adj.
+frothy 充满泡泡的，兴奋得冒泡的 adj.
 elliptical 省略的，椭圆的 adj.
 effluvium 一般是因为化学物品挥发而产生的刺鼻气味 n.
 effulgence 闪耀夺目亮到刺眼的程度 n.
@@ -1003,3 +1024,35 @@ firebrand 用来烧的木头，惹祸精 n.
 flax 亚麻，亚麻制品 n.
 fleece 羊毛大衣 n. 薅羊毛（各种意义上... 薅羊的毛或者占便宜）v.
 flit 快速的行动，私底下的小动作 v./n.
+fluke 突然来的好运 n.
+flummox 失败，狼狈 v.
+fluster making sb. upset pr nervous v.
+fluvial 河流中的，与河相关的，在河中发生的 adj.
+flux constant change n.
+foliage 叶子 n.
+foment 刺激某事的发展（一般不是好事）v. 用热水喝药品浸泡某人（热敷？） v.
+foolproof not liable to failure adj. 佐证对人的虐待 v.
+footloose 无牵无挂的 adj.
+forbearance proper amount of time delay/wait before enforcing rights n.
+ford 趟过浅浅的小河 v./n.
+forebear 祖先 n.
+forestall 阻止某事发生 v.
+formidable 因为体型或者实力而让人敬畏的 adj.
+forthcoming 即将到来的，平易近人的 adj.
+forthright 心直口快的，实诚的 adj.
+fortuitous 巧合的（一般是好事）adj.
+fracas 吵闹 n.
+friable 容易碎成渣渣的 adj.
+frieze 墙上横装浮雕装饰物 n.
+frond 像大麻那样的分叉的叶子 adj.
+full-bodied （物）象征富有又充满美味的 adj.
+fulminate （刺耳的）声音，（严厉的）批评，（巨大的）爆炸声 v. 烈性炸药，雷酸盐 n.
+fumble 感觉盲目又不确定 v. 丢球 n.
+fungus 菌类 n.
+furor 剧烈的反应（一般不是好的反应）n.
+furtive 隐秘的 adj.
+futile 没有结果没有效果的 adj.
+gadget 做某样工作特别好用的工具（a.k.a:秘密武器？） n.
+gallant 在战斗中表现得崇高英勇的 adj. 注意外形和着装的男人 n.
+galley 一种中世纪的小船 n. 准备食物的地方（不是做菜的地方） n.
+gambit （下棋，或者政治中的）布局 n.
