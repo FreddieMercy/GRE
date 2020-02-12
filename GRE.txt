@@ -1,5 +1,5 @@
 scrutinize 细阅v.
-goggle 目不转睛，看直了眼儿 v,
+goggle 目不转睛，看直了眼儿 v.
 peruse 很仔细的阅读 v.
 vigilance 连续高强度注意力集中 n. p.s: 说，你和scrutinize什么关系？是不是他的名词形式？？
 engross 全神贯注 v.
@@ -205,7 +205,7 @@ brisk quick and energetic adj. being brisk v.
 indefatigable （有点傻且有点天真乐观的）不知疲倦的，有韧性的 adj. 
 fanatic （不理智地）乐观的 adj. 穷开心的人 n.
 frolicsome  幸福的,嬉戏的 adj.
-halcyon （生活）平静幸福又富有的
+halcyon （生活）平静幸福又富有的 adj.
 convivial 欢乐的，宴会玩乐的 adj. 
 gaiety 幸福时光，merriment n.
 ebullient 极度开心的，开心到不能自已的 adj.
@@ -274,6 +274,7 @@ animus 反感或者敌意 （不表露出来的，是一种内心的冲动）n.
 foe （武装）敌人，敌对的武装势力 n.
 confrontation 激烈生气的争执，对立的团体，硬核的挑战 n.
 impeded 使...更难 adj.
+hamper 阻止，阻挠 n./v.
 bungling 手不太好使（不太灵活）的，技能不够的 adj.
 boon 恩惠，福利 n. 愉悦的（一般是因为物质/福利） adj.
 boor 残忍的人 n.
@@ -302,6 +303,7 @@ tread 行走，结伴行走 v.
 saunter 漫步 n./v.
 stagger 困难地走，步履蹒跚 v. 
 dodder 步履蹒跚，艰难行走 v.
+ham-handed 行动不便的 adj.
 fluctuate 以波浪形移动 v.
 budge 挪动 v.
 gait 走路姿势 n. 【邯郸学步？】
@@ -478,6 +480,7 @@ commiseration 对别人的痛苦忧伤感同身受并表示同情与善意 n.
 sycophant 靠取悦某人谋取利益的人 n.
 toady 靠取悦某人谋取利益的人 n. 靠哭闹或者撒娇来企图获得想要的 v.
 snivel （因为太想要某样东西）大哭大闹 v./n.
+hankering 非常想要某样东西 n.
 desideratum 必需品，非常想要的东西（未必很便宜） n.
 staple 主食，（可能是因为喜欢）生活必需品，书钉 n./adj./v.
 blubber 又哭又闹 v./n. 肿大的 adj. 鲸鱼和其他水中哺乳动物用来漂浮的脂肪层 n. 
@@ -520,6 +523,7 @@ sallow 病态的 adj. 使...看起来病态 v. 一种树叶 n.
 anemic 贫血的，无精打采的 adj.
 cadaverous 行尸走肉般的，（因为病）看起来像尸体或骷髅的 adj.
 slipshod  非常马虎的 adj.
+haphazard 非常马虎不小心（做错事）的 adj.
 protean  变形的,形状多变的 adj. [毕加索的画就很 protean ]
 deem view as ... , judge sth v.
 dome 圆顶建筑的那个圆顶 n.
@@ -1113,3 +1117,8 @@ groove 沟渠 n.
 gumption 执行力 n.
 gust 一股很强的风 n.
 habitable 适宜居住的 adj.
+hallow （宗教上的）祝福/保佑 v.
+hallucination 妄想，幻想 n.
+hamstring 大腿上的筋及肌肉 n. 切断大腿上的筋及肌肉使残废 v.
+hangdog 内疚+尴尬+有罪恶感的 adj.
+harangue 激情澎湃的演讲 n./v.
